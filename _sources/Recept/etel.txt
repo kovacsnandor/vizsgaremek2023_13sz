@@ -1,0 +1,117 @@
+nev;id;kategoriaid;felirdatum;elsodatum
+karfiolleves;1;2;2003.06.27;2003.08.04
+töltött paprika;2;3;1991.04.01;1991.05.06
+mákos guba;3;6;1991.04.27;
+brokkolileves;4;2;1993.11.25;1993.12.04
+Újházi tyúkhúsleves;5;2;1992.11.21;1992.12.30
+krumplipüré;6;1;1996.09.02;1996.09.25
+rizseshús;7;3;1995.01.19;1995.02.18
+brassói aprópecsenye;8;3;1996.11.30;1997.01.11
+húsvéti tekercs;9;4;1994.09.04;1994.10.08
+sárgaborsóleves;10;2;1993.02.18;1993.04.04
+babfőzelék;11;5;1996.03.05;1996.04.19
+lebbencs;12;2;1991.07.04;1991.08.25
+karalábéleves;13;2;1997.11.29;1998.01.11
+hagymás rostélyos;14;3;1997.07.20;1997.08.14
+finomfőzelék;15;5;1993.04.19;1993.05.26
+hamisgulyás;16;2;1991.04.01;1991.05.11
+zöldborsófőzelék;17;5;1991.07.21;1991.08.13
+zöldbabos marhatokány;18;4;1994.12.12;
+zöldséges pulykaragu;19;4;1994.12.21;1995.01.26
+húsgombóc paradicsommártással;20;3;1998.11.27;1998.12.08
+céklaleves;21;2;1999.02.04;1999.02.13
+gulyásleves;22;2;1992.02.20;1992.03.23
+mákos nudli;23;6;1997.07.04;1997.08.10
+knédli;24;1;1997.03.01;1997.04.06
+slambuc;25;2;1995.10.31;1995.11.22
+csikóstokány;26;3;1991.08.26;1991.09.12
+paradicsomleves;27;2;1994.02.16;1994.03.31
+erdélyi krumplileves;28;2;1998.05.15;1998.07.02
+tarhonya;29;1;1995.11.16;1995.12.24
+körömpörkölt;30;3;1998.01.07;1998.01.19
+milánói makaróni;31;3;1994.08.11;
+mákostészta;32;6;1993.06.11;1993.07.14
+húsleves;33;2;1991.07.13;1991.09.03
+frank krumplileves;34;2;1995.01.23;1995.03.02
+párolt zöldség;35;1;1999.01.10;1999.02.09
+gesztenyekrémleves;36;2;1996.12.29;1997.02.12
+erőleves;37;2;1992.08.25;1992.09.01
+korhelyleves;38;2;1997.09.14;1997.09.29
+fasírt;39;4;1991.08.07;1991.09.04
+galambleves;40;2;1996.08.26;1996.09.07
+lencsefőzelék;41;5;1995.08.25;1995.10.05
+egresleves;42;2;1995.06.08;1995.07.12
+paradicsomos krumpli;43;5;1992.05.02;1992.06.23
+rakottkrumpli;44;3;1998.09.10;1998.10.01
+sonkás burgonyatekercs;45;3;1995.04.15;1995.05.09
+francia zöldségleves;46;2;1997.09.16;1997.11.02
+zöldbableves;47;2;1997.08.11;1997.09.28
+Sztroganoff pulyka;48;4;1991.05.25;
+sajtos makaróni;49;6;1995.04.02;1995.04.13
+burgonyakrokett;50;1;1995.05.22;1995.07.02
+juhtúrós galuska;51;1;1992.03.21;1992.04.05
+krumplistészta;52;6;1993.09.15;1993.10.10
+tarhonyáshús;53;3;1999.04.23;1999.06.01
+burgonyafánk;54;1;1993.11.08;1993.12.08
+dödölle;55;1;1995.06.27;1995.07.05
+sertésborda Dubarry módra;56;4;1996.09.16;1996.10.09
+borsos tokány;57;3;1997.11.29;1997.12.10
+párolt rizs;58;1;1992.10.05;1992.11.23
+mazsolás rizs;59;1;1999.01.10;1999.01.22
+krumpligombóc;60;1;1997.12.22;1998.02.10
+sertésborda hentes módra;61;4;1995.09.24;1995.11.06
+hagymás krumplileves;62;2;1993.03.18;1993.04.05
+tökfőzelék;63;5;1991.06.23;1991.07.14
+babgulyás;64;2;1995.02.07;1995.03.19
+húsvéti pulykamell;65;4;1994.03.29;1994.04.04
+palócleves;66;2;1992.01.11;
+töltött gomba;67;4;1991.11.10;1992.01.02
+túrós csusza;68;6;1999.02.12;1999.03.02
+székelykáposzta;69;3;1995.09.09;1995.10.02
+erdélyi fatányéros;70;3;1994.09.09;1994.09.21
+rántott hús;71;4;1993.05.03;1993.05.20
+Jókai bableves;72;2;1993.01.12;1993.02.16
+spenót;73;5;1994.07.20;1994.08.01
+nokedli;74;1;1999.05.16;1999.07.05
+húsgombócleves;75;2;1995.04.29;1995.05.27
+temesvári sertésborda;76;4;1996.11.14;1996.12.08
+szalmaburgonya;77;1;1994.03.08;1994.03.24
+csúsztatott palacsinta;78;6;1992.02.02;1992.03.23
+krumplifőzelék;79;5;1994.08.28;1994.09.26
+lencseleves;80;2;1997.02.18;1997.03.10
+rakottkáposzta;81;3;1997.07.16;
+hideg görögdinnyeleves;82;2;1995.01.23;1995.02.05
+töltött karalábé;83;3;1995.10.19;1995.11.04
+császármorzsa;84;6;1998.01.10;1998.01.23
+sárgaborsófőzelék;85;5;1991.09.01;1991.10.08
+erdélyi fokhagymaleves;86;2;1996.11.13;1996.12.25
+Rákóczi-rostélyos;87;4;1995.11.12;1995.11.22
+rántotta;88;3;1998.06.30;1998.07.22
+zöldborsóleves;89;2;1994.10.31;1994.12.11
+frankfurti leves;90;2;1993.08.30;1993.10.03
+töltöttkáposzta;91;3;1992.03.19;1992.04.06
+rizibizi;92;1;1991.08.17;1991.08.23
+fokhagyma-krémleves;93;2;1992.07.30;1992.09.05
+bakonyi szelet;94;3;1994.01.29;1994.03.07
+szilvásgombóc;95;6;1993.03.20;1993.04.05
+ludaskása;96;3;1997.03.21;
+csevapcsicsa;97;3;1995.05.19;1995.07.08
+paprikáskrumpli;98;3;1998.06.04;1998.06.14
+borleves;99;2;1996.05.16;1996.06.09
+sült hús;100;4;1992.02.28;1992.03.17
+eperleves;101;2;1998.12.04;1999.01.14
+sztrapacska;102;6;1993.06.26;1993.07.23
+húsos makaróni;103;6;1997.07.03;1997.07.08
+párolt káposzta;104;1;1994.12.26;1995.01.25
+sonkás tészta;105;6;1992.07.22;1992.09.02
+rósejbni;106;1;1998.03.24;1998.05.14
+sajtos borda;107;4;1996.06.18;1996.07.24
+hagymás tört krumpli;108;1;1991.08.12;1991.09.23
+tarhonyaleves;109;2;1993.01.10;1993.01.28
+gombaleves;110;2;1995.06.24;1995.08.13
+szezámmagos pulykamell;111;4;1996.05.17;1996.07.09
+fokhagymás joghurtleves;112;2;1997.06.09;
+gombás rizs;113;1;1993.11.15;1993.12.18
+káposztás tészta;114;6;1997.04.08;1997.05.22
+francia bableves;115;2;1993.12.27;1994.01.18
+kelkáposztafőzelék;116;5;1992.02.23;1992.04.15

@@ -1,0 +1,466 @@
+halid	tajnev
+2	ángolna
+2	ángvilla
+2	síkos ángolna
+3	bagoly
+3	bagókeszeg
+3	karikakeszeg
+3	száp
+3	szápakeszeg
+3	szápókeszeg
+4	bálind
+4	bálint
+4	balling
+4	baing
+4	baksa
+4	bolyín
+4	boín
+4	buczó
+4	búczókeczeg
+4	csabak
+4	fenekeszeg
+4	jászkeszeg
+4	kapókeszeg
+4	nagypénteki hal
+4	nagy-szélhal
+4	nyilkeszeg
+4	őn
+4	őnhal
+4	őnkeszeg
+4	őny
+4	őnyhal
+4	pőlind
+4	ragadozó küsz
+4	ragadozó őn
+4	szellőkeszeg
+4	torzsáskeszeg
+4	vadászkeszeg
+4	vezérhal
+4	vizenjárókeszeg
+5	béka-hal
+5	boti
+5	botos
+5	butikóhal
+5	ebhal
+5	kölönte
+5	kolty
+5	kophal
+5	kopsa
+5	kutyahal
+5	ördöghal
+6	nyálkás czompó
+6	czigányhal
+6	gyászkeszeg
+6	haldoktor
+6	sárhal
+6	tathal
+6	vargahal
+6	varjúhal
+6	zöldike
+7	köz-csuka
+7	bugyli (növendék csuka)
+7	ezüstcsuka
+8	dévér
+8	dévértkeszeg
+8	bárdkeszeg
+8	dorzsmáskeszeg
+8	fahegykeszeg
+8	keszege
+8	feketeszárnyúkeszeg
+8	lapátkeszeg
+8	lapiska
+8	lapkó
+8	bárdkeszeg
+8	laposka
+8	lapos keszeg
+8	lepényhal
+8	platyicza
+8	platyika
+8	platyka
+8	pünkösdkeszeg
+8	széleskeszeg
+8	szélhajtókeszeg
+8	tyiszága
+8	tyiszaga
+8	Szent György-keszeg
+8	vereskeszeg
+8	véreskeszeg
+10	domi
+10	domolykó
+10	domorkó
+10	egérfogó
+10	fejérkeszeg
+10	fejeshal
+10	fejesponty
+10	jácz
+10	jász
+10	jászkeszeg
+10	jászponty
+10	jáz
+10	keling
+10	lógga
+10	nagyfejű hal
+10	nagyfejű keszeg
+10	száp
+10	sütő
+10	telea
+10	telen
+10	telény
+10	tomolykó
+10	tömpekeszeg
+10	törő
+12	göbhal
+12	gobhal
+12	goboly
+12	göcze
+12	grúz
+12	gulúz
+12	hajas-kövihal
+12	héjjas-kövihal
+12	kő-hal
+12	küllő
+12	sármászó szaka
+12	tergélye
+13	cselle
+13	csetni
+13	egri
+13	egrihal
+13	egriponty
+13	pelehal
+13	putni
+13	tökhal
+14	gárdakeszeg
+14	balatoni hering
+14	balatoni héring
+14	gallakeszeg
+14	gárdakeszeg
+14	gargya
+14	gorda
+14	görbepaducz
+14	görbepaduc
+14	gyargya
+14	gyurgya
+14	héringhal
+14	hosszúkeszeg
+14	karda
+14	kardakeszeg
+14	kardkeszeg
+14	kardos
+14	kaszakeszeg
+14	korda
+14	lánakeszeg
+14	látott hal
+14	lannakeszeg
+14	sugárkardus
+14	szabó
+14	szabóhal
+14	sugár kardos
+14	vágóhal
+15	leső harcsa
+15	parasztfaló
+15	pozsárharcsa
+15	pumaharcsa
+15	sárgaharcsa
+15	harcsapundra (kis harcsa)
+17	ónos jász
+17	ónkeszeg
+20	kő-süllő
+20	bandár
+20	tarkasüllő
+20	tótsüllő
+20	vadsüllő
+17	ezüst kárász
+17	kövi kárász
+17	géb
+17	gibbélió kárász
+17	ezüst kínai kárász
+18	baszárkeszeg
+18	bolén
+18	ezüstös balin
+18	gyöngyhal
+18	jeges keszeg
+18	lánakeszeg
+18	szalmántelt
+18	szápakeszeg
+18	tányérkeszeg
+18	tángyérhal
+19	kecsege-tok
+19	kecsegetok
+19	kecsöge
+19	köcsög
+19	köcsöge
+21	bajuszos-orsófark
+21	gömőhal
+21	hajatlan kövihal
+21	héjatlan kövihal
+21	kavicshal
+21	kőmarókolty
+21	könyhal
+21	kövecshal
+21	kövi
+21	kövicsik
+21	kövihal
+21	kűhal
+21	ményhal
+23	bobálik
+23	bobály
+23	ebhal
+23	ebihal
+23	kutyahal
+23	peczehal
+23	pócz
+23	póczhal
+23	ribahal
+24	balinkeszeg
+24	baszárkeszeg
+24	lapos dévérkeszeg
+24	lapos keszeg
+24	lánakeszeg
+24	szápakeszeg
+24	szalmántelelt
+25	barátbunkó
+25	baráthal
+25	bunkó
+25	czingli
+25	furkó
+25	gócz
+25	kócz
+25	kóczhal
+25	kolcz
+25	kólcz
+25	kosz
+25	magyar buczó
+25	magyar-kócz
+25	orsóhal
+26	brána
+26	harcsaponty
+26	marczi hal
+26	manna
+26	martikeszeg
+26	merenne
+26	nagy-marczi
+26	rózsa márna
+26	rózsamárna
+26	rózsahal
+26	tótkecsege
+27	tarka meny
+27	kutyahal
+27	méhal
+27	ményhal
+27	nagyagyú hal
+27	törzsökhal
+28	apáczafúró
+28	arsóhal
+28	buczó
+28	buczok
+28	durbancs
+28	kerékszeg
+28	német-kócz
+28	nemhal
+28	orsóhal
+28	orsófark
+28	orsófarkú hal
+28	orsóhal
+28	poczokfarkú
+28	ráspóhal
+28	répahal
+28	reszelő
+29	potyka
+29	duna-ponty
+29	ponty
+29	potyesz
+29	pozsár
+29	tőpotyka
+29	csupaszponty
+29	királyponty
+29	tő-ponty
+29	babajkó
+29	pikkelyes nemesponty
+29	nyurgaponty
+29	tükörponty
+29	tükrösponty
+29	kakastökű ponty
+29	cigányponty
+29	vadponty
+30	csik
+30	halcsik
+30	barnacsik
+30	csikdánia
+30	csikkirály
+32	ángvilla
+32	ángéla
+32	barsóka
+32	fehérsügér
+32	ilonahal
+32	ilonkakeszeg
+32	selyemhal
+32	selyemsügér
+32	selyemdúbír
+32	serincz
+32	srácz
+32	sráczhal
+32	sréczer
+32	varsinta
+32	vaskó
+33	fecskefarkú
+33	fűzfahal
+33	fűzike
+33	halhuszár
+33	habnyelő
+33	keceg
+33	sugárkeceg
+34	csapó sügér
+34	bules
+34	dibbancs
+34	dóber
+34	dúbár
+34	dúber
+34	dúbér
+34	fésüshal
+34	kándró
+34	körmöshal
+34	parcs
+34	persli
+34	rappi hóhér
+34	réti-durbincs
+34	sígér
+34	singér
+34	súdér
+34	süger
+34	sügre
+35	fogas süllő
+35	fehérhúsú csuka
+35	fogas
+35	sül
+35	szellő
+35	hóttsüllő
+36	ehérke
+36	bökle
+36	dobóka
+36	fejérke
+36	fejérkeszeg
+36	szélkeszeg
+36	fűzfahal
+36	fűzike
+36	göce
+36	gőcze
+36	huszárkeszeg
+36	pisze
+36	szélkeszeg
+36	szélhal
+36	kis szélhal
+36	szélhajtó
+36	kisz
+36	lőbő
+36	löbő ökle
+36	peholhal
+36	pehelyhal
+36	peleh-hal
+36	pehel-hal
+36	pelehal
+36	peszmetkehal
+36	penmethal
+36	pine
+36	pinehal
+36	pinke
+36	pisze
+36	piszehal
+36	piszke
+36	rütyőke
+36	ribihal
+36	szélhajtó
+36	szélhal
+36	szélkeszeg
+36	szellőkeszeg
+36	tejhal
+36	ünhal
+36	ruszli
+36	fűzfalevél
+36	huszárkeszeg
+36	szűkehal
+36	snajder
+36	snájder
+36	snöci
+36	sneci
+37	keserűhal
+37	lapistyán
+37	laponya
+37	ökle
+37	petikehal
+37	pohé
+37	sároglya
+37	Szent-Péter hala
+39	fövenyvágó
+39	halbába
+39	jégfúróhal
+39	kőfúró
+39	kőharapó
+39	kővágó
+39	sibrikhal
+39	vágóhal
+40	borholy
+40	disznóhal
+40	dörgecs
+40	dörgécse
+40	dörgicse
+40	dörgőcse
+40	dörgőcze
+40	durbancs
+40	durbincs
+40	durda
+40	dürgencs
+40	görgécse
+40	görgicse
+40	görgőcse
+40	görgőcse hal
+40	kis-dürgencs
+40	lecserlecs
+40	lezsér
+40	macza
+40	paptetű
+40	pikó
+40	porhó
+40	serincz
+40	taknyos lezsér
+40	taknyos macza
+40	tövishal
+40	tüskéshal
+40	vargahal
+40	vasinta
+40	vaskó
+40	vizidarázs
+41	bőke
+41	bűke
+41	bürke
+41	göndér
+41	önhal
+41	pápakeszeg
+41	tamáskeszeg
+41	aranyhal
+41	bikkely
+41	bódorkeszeg
+41	búzaszeműkeszeg
+41	búzaszemű kárász
+41	czompókhal
+41	dunakeszeg
+41	gaisztás-keszeg
+41	gelesztás-keszeg
+41	kárászkeszeg
+41	kelehal
+41	kelen
+41	konczhal
+41	nemzetihal
+41	piroska
+41	piroslókeszeg
+41	pirosszemű kele
+41	piros szárnyú konczár
+41	pirosszárnyú konczér
+41	pirosszárnyú ponty
+41	szőrkeszeg
+41	véreskeszeg
+41	veresszem
+41	veresszemű hal
+41	veresszemű keszeg
+41	veresszárnyú jász
+41	veresszárnyú konczér
+41	veresszárnyú keszeg

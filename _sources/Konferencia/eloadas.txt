@@ -1,0 +1,25 @@
+az	eloadoaz	cim	kategoria	terem	idopont
+1	174	Drupal - kezdőknek	CMS	Neumann terem	10:00:00
+2	135	e107 - a múlt?	CMS	Neumann terem	13:00:00
+3	118	Wordpress - csak egyszerűen	CMS	Neumann terem	11:00:00
+4	125	MOODLE - új modulok	LCMS	Kalmár labor	11:00:00
+5	148	MOODLE - saját skin	LCMS	Kalmár labor	11:30:00
+6	31	OpenOffice.org - Impress	Open Source	Bolyai előadó	11:00:00
+7	140	Drupal - iskolába	CMS	Neumann terem	14:30:00
+8	149	Scribus	Open Source	Bolyai előadó	14:00:00
+9	62	OpenOffice.org - Calc	Open Source	Bolyai előadó	10:30:00
+10	98	OpenOffice.org - Base	Open Source	Bolyai előadó	11:30:00
+11	42	OpenOffice.org - Math	Open Source	Bolyai előadó	13:30:00
+12	91	Joomla! - mindenkinek	CMS	Neumann terem	11:30:00
+13	81	MOODLE - telepítés	LCMS	Kalmár labor	10:00:00
+14	27	MOODLE - portable	LCMS	Kalmár labor	10:30:00
+15	107	MOODLE - modulfejlesztés	LCMS	Kalmár labor	14:00:00
+16	57	Melyik CMS-t?	CMS	Neumann terem	14:00:00
+17	74	Élet a MOODLE-en túl	LCMS	Kalmár labor	13:30:00
+18	178	MOODLE - authentikáció	LCMS	Kalmár labor	13:00:00
+19	142	OpenOffice.org - Writer	Open Source	Bolyai előadó	10:00:00
+20	141	Nyílt szoftverek az oktatásban	Open Source	Bolyai előadó	14:30:00
+21	187	PHP Nuke	CMS	Neumann terem	13:30:00
+22	36	Drupal - testreszabás	CMS	Neumann terem	10:30:00
+23	53	OpenOffice.org - Draw	Open Source	Bolyai előadó	13:00:00
+24	90	Egy egyetemi oktatási keretrendszer	LCMS	Kalmár labor	14:30:00

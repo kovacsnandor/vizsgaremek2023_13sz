@@ -1,0 +1,652 @@
+id	nev
+SB.7380	Szósz Boglárka
+MM.7225	Miklósi Miklós
+ÁD.1122	Árva Dóra
+PG.8846	Pótz Győző
+SJ.8094	Savanya Judit
+VS.7756	Varga Szimonetta
+AJ.0935	Almási Jenő
+PL.8174	Püski László
+LK.8140	Lovai Kálmán
+EA.6644	Eszes Albert
+SE.5166	Seprenyi Edit
+KN.4319	Koch Nikolett
+LN.4151	Lengyel Nóra Kata
+VE.3175	Vincze Eszter
+SL.7295	Szedlacsek Luca
+HA.6109	Halmos Anikó
+KA.2208	Kovács Annamária
+BK.0518	Bitó Kálmán
+BA.1855	Benedek Attila
+DR.0586	Dombovári Réka
+SN.0628	Szőke Noémi Eszter
+SZ.2526	Senkey Zsuzsanna
+ÖK.7126	Ördög Kálmán
+TE.5035	Tóth Eszter
+SL.0974	Stofin Luca Lídia
+DK.7517	Debreceni Kata
+KK.6508	Komlósi Katalin
+JA.0000	Jónás Alexandra
+CL.2002	Csonka Lili Lujza
+IB.7575	Illés Béla
+OZ.4473	Orosz Zita Ildikó
+BT.4289	Bogdándi Tamara
+HO.9226	Herédi Orsolya
+VK.5984	Virág Katalin
+SA.4395	Sebok Anna
+VP.1210	Várkonyi Paulina
+SK.7549	Sós Krisztián
+KL.3902	Kovács Lilla Krisztina
+BE.0806	Blum Emil
+MR.0674	Molnár Roland
+CI.3333	Csordás István
+DP.2664	Dobó Péter
+SG.2482	Sarlós György
+BE.0864	Bedő Emil
+DT.3892	Dömötör Tamás
+KT.7545	Kiss Tímea
+HL.9827	Haraszti Lilla
+KR.2297	Kozmann Réka
+SG.6461	Szűcs Géza
+BJ.2171	Bodosi Júlia Anna
+TN.1238	Tánczos Nóra
+NS.4608	Nyíl Szonja
+TD.1781	Tóth Dorottya
+FS.9718	Fodor Sára Réka
+HL.5256	Hegedűs Lilla
+LN.8991	Lakatos Noémi
+OI.5285	Olasz István
+TL.5319	Tóth Luca
+GD.2000	Gyurcsik Dorina
+ZV.6094	Zombori Vanessza
+BB.4956	Bóka Bernadett
+PR.7953	Pálos Réka
+JT.2233	Jenei Tibor
+PZ.1760	Patyi Zita
+SA.3491	Schaff Aladár
+SG.4287	Szabó Gyöngyi
+LG.7708	Lózung Gábor
+FK.0490	Farkas Karl
+KT.5463	Kővágó Temir
+KG.2387	Kisó Gábor
+MV.6897	Mészáros Viola
+MR.4488	Máté Róbert
+HA.5132	Horváth Annamária
+ST.7445	Szántó Tünde Tímea
+BT.1841	Bózsó Tamás
+PF.7375	Papp Fanni Erika
+NP.5412	Nyers Péter
+NL.4599	Nagy Lajos
+VG.2373	Vastag Georgina
+KB.1685	Kovács Blanka
+KR.0630	Kállai Réka
+KO.5545	Kerekes Ottó
+TZ.2930	Tan Zoltán
+BJ.6683	Bakos Jácint
+FI.0444	Fábián Imre
+TR.0881	Tóti Réka Evelin
+VZ.6218	Varga Zsuzsanna
+FV.9396	Fekete Vivien
+PC.4269	Pálfi Csilla
+LE.2285	Lajkó Elza
+VG.9528	Vass Gabriella
+BG.0504	Bori Győző
+MZ.6513	Mezőlaki Zoltán
+FB.9611	Farkas Béla
+ND.5203	Nemes Dóra
+SÁ.0875	Selmeci Ágnes
+CE.9033	Csepp Endre
+MM.1932	Mike Mátyás
+EH.0733	Esztergályos Henrietta
+TL.7601	Török Lóránt
+KN.8193	Kónya Nikolett
+KL.3512	Kockás Laura
+MZ.0921	Molnár Zsigmond
+HR.4421	Horváth Rita
+BM.8747	Bencsik Mónika
+VZ.0162	Veres Zoltán
+KP.9436	Késmárky Petra
+KP.0837	Kovács Péter
+NJ.5694	Nagy József
+VA.0512	Vida Adrienn
+DD.1631	Deme Daniella
+SZ.2133	Sebok Zsófia
+BP.4530	Balog Pál
+SB.1519	Sipos Borbála
+OZ.4561	Ormos Zita Mária
+MJ.6976	Mészáros Judit Enikő
+PT.6509	Pásztor Tibor
+KI.1361	Klaumer István
+EL.3713	Erdélyi Lilla
+ZE.8808	Zombori Emese
+NG.2881	Nagy Georgina
+KÁ.8010	Kincses Ágota
+NI.0775	Németh Imre
+WT.5063	Widek Tamás
+TF.3880	Tari Fruzsina
+SZ.3265	Szednicsek Zsófia
+NN.1187	Nemes Nikolett
+NK.4348	Nagy Krisztina
+DF.0284	Duma Flóra
+DM.1593	Dobi Mónika
+BA.7082	Bor Attila
+JÁ.0898	Juhász Ákos
+SP.3373	Seik Péter
+SG.6867	Sebők Gerda
+FL.5093	Fábián Lili
+VÁ.1907	Varga Árpád
+BR.7818	Béla Rebeka Judit
+GD.2662	Gors Dóra
+GP.7213	Gyulai Petra
+GN.4133	Guzmin Natália
+MP.1548	Marton Pál
+RI.3240	Rém Igor
+BC.6620	Beke Csenge Kata
+KL.1723	Kószó Laura
+ZE.5201	Zsók Emese Zsuzsanna
+MK.6085	Makra Kitti Ildikó
+SK.9881	Szántó Katinka Mandula
+FI.4848	Farkas István
+NF.3575	Nagy Flóra
+HZ.5970	Herceg Zsolt
+KE.1884	Kautzky Evelin
+CP.6245	Csáki Pál
+SI.5869	Sas Imola
+BT.6827	Bitó Tamás
+LO.1112	Lukács Orsolya
+SK.7904	Siklósi Kálmán
+SN.6134	Samu Nóra
+SP.7024	Szabó Pál
+RV.2715	Révész Viktória
+RA.1998	Rómer Andrea
+KÁ.7195	Kovács Árpád
+ÁE.4776	Ádám Eszter
+MB.3857	Molnár Blanka
+TA.1306	Tóth Adél
+HF.1310	Hajas Fruzsina
+WZ.8323	Wollek Zoltán
+JC.5136	Juhász Csaba
+KF.4505	Koch Ferenc
+KA.4781	Kármán Anna Katalin
+MN.9696	Molnár Nóra
+HZ.1789	Halász Zoltán
+TZ.5158	Tari Zsófia Mariann
+BP.1705	Bánfi Péter
+NF.2425	Nyári Ferenc
+FN.9800	Fődi Norbert
+RI.9112	Réti Imre
+KD.6239	Kincses Dezső
+VK.6810	Várkonyi Kata
+IR.6871	Ilkei Réka Emese
+JR.7464	Juhász Rezső
+BR.6915	Bajnai Rita
+GA.5549	Gál Anna
+SD.4324	Szabados Dezső
+SB.4943	Szilágyi Bence
+OB.8264	Olajos Boglárka Gyöngyi
+KL.4494	Kereki Lilla Sára
+KG.6854	Kovács Gábor
+JE.5179	Janka Eszter Dalma
+DP.6361	Dancs Petra
+BD.8119	Barta Dalma
+CN.2071	Csapó Nikolett Klára
+HB.0756	Horváth Balázs
+LL.5799	Lázár Laura
+FC.6932	Füst Csenge
+FK.6713	Forgó Krisztina
+HR.5369	Hegyközi Réka
+LG.2970	Ludányi Gábor
+TL.8183	Takács Lili
+RA.8864	Rácz Anna
+BA.2113	Bordás Anna Lili
+KM.8913	Komáromi Mátyás
+MÉ.0065	Mészáros Éva
+TG.7327	Tihanyi Gábor
+EB.5954	Erdélyi Brigitta
+FG.2306	Forrai Gerda
+SÁ.2118	Sári Ágnes
+BR.7944	Barna Róbert
+SB.9363	Szabó Bettina
+FR.6982	Fogó Ramóna
+LZ.5815	Lajos Zsolt
+BE.1945	Budai Enikő
+BG.9979	Balogh Gusztáv
+KN.8713	Király Nikolett
+BE.4516	Barta Emese
+KR.2012	Kis Rebeka Anna
+HL.3046	Hódi Lajos
+ÉI.1563	Éger Imre
+KA.9211	Kristóf Anna
+HP.4209	Halmosi Petra
+KN.2792	Kiss Noémi Lilla
+GA.7092	Gábor Anna
+JT.5373	Juhász Tünde Dóra
+OZ.6658	Oláh Zsóka
+KH.2825	Kemény Henrietta
+CB.0357	Császár Beáta
+TE.0616	Tárkány Emília
+ZM.2168	Zádori Mátyás
+KM.6649	Karasi Melinda
+SB.9701	Sebestyén Béla
+ME.0837	Maróti Enikő
+LG.7815	Lindh Gabriella Márta
+KZ.5018	Kiss Zsolt
+DH.0622	Deák Helga Klára
+SL.3904	Szilasi Lili
+KR.7990	Király Réka Anna
+SA.3924	Sebő Attila
+SK.6666	Szelei Károly
+PT.8998	Pintér Tímea Kitti
+GK.1748	Garai Katalin
+ZT.0107	Zentay Tamás
+BE.5502	Bronner Eta
+TV.2732	Tomka Veronika
+PK.9395	Pölös Kata Enikő
+KP.9401	Kincses Péter
+MZ.4492	Masa Zsolt
+BD.2876	Benkő Diána
+BO.5754	Budai Orsolya
+LZ.3412	Lengyel Zsófia Edit
+VF.7140	Varga Fanni
+NI.9715	Nagy Imre
+HT.7473	Hajhtsa Tamás
+HD.9079	Hódi Dominika Ágnes
+BL.4380	Borcsa Lajos
+DT.8003	Davidov Tamás
+GF.0708	Gőcze Fanni Zsófia
+UI.5361	Urbán István
+KD.0506	Kiss Dóra
+BT.7290	Bíró Tamás
+HT.2648	Herédi Tímea Emese
+ST.2390	Sipos Tímea
+FK.2581	Földesi Kálmán
+BI.7214	Bíró Ivett
+BP.9080	Bóna Petra
+VN.5671	Vidács Nóra
+SO.1532	Sümegi Ottó
+CA.0932	Csom Andrea
+VK.1033	Varga Kata Judit
+ME.5423	Mészáros Ernő
+MP.2200	Magyar Patrícia
+SM.0077	Stabb Mercédesz
+TP.5347	Tomma Pál
+TK.9485	Tóth Kata Mária
+VG.7645	Vég Gábor
+JF.5515	Jag Fruzsina Bernadett
+TZ.4279	Tanács Zsófia Kata
+EZ.8360	Engi Zsolt
+FM.2490	Fenyves Mózes
+TP.6487	Takács Pál
+KA.7622	Kertész Annamária
+KJ.0231	Kipall Judit
+BF.6471	Bató Franciska
+KI.8812	Kovács Imre
+BÁ.4304	Bodor Ádám
+SZ.7645	Szendrődi Zsuzsanna Emese
+LT.9524	Lant Tibor
+SB.5094	Spák Bernadett
+MT.8909	Mészáros Tamás
+BD.5403	Borbás Dorottya
+VJ.5418	Vörös József
+AG.3206	Alsó Gábor
+BÁ.5302	Bognár Ágnes
+FA.2291	Falch Anna
+VT.9241	Varga Tímea
+SG.0599	Sütő Gábor
+ÖI.7617	Ördög Ildikó
+BK.9868	Borisz Kinga
+ZZ.2484	Zólyomi Zsófia Katalin
+BB.2406	Berger Betti
+BK.9031	Baranyi Kinga
+PB.2815	Polgár Beáta
+CP.3774	Csóti Petra
+NA.4463	Nagy Anita
+NS.3996	Nik Sándor
+MG.4956	Mészáros Gábor
+TG.1437	Török Gusztáv
+MF.5886	Márton Ferenc
+KZ.8343	Kertész Zoltán
+ÁS.0777	Ádám Sándor
+CB.9649	Csorba Brigitta Krisztina
+KB.1173	Kovai Balázs
+KO.6324	Korsós Ottó
+KE.7992	Kovács Eszter
+SG.0052	Seres Gabriella Mária
+SB.1666	Sági Barbara Emma
+MK.5059	Molnár Katalin
+HZ.0315	Happ Zoltán
+IN.5792	Izsó Norbert
+SD.3531	Sipos Dária Zsuzsanna
+DD.1368	Dávid Ditta
+TS.9114	Tóth Stella
+TS.8046	Tatár Sándor
+SA.5243	Skvar Annamária Eszter
+SI.4200	Szűcs Imre
+NN.4315	Nikk Nándor
+KK.9708	Kelemen Kálmán
+BC.3256	Binszki Cintia
+KZ.5876	Károly Zita
+MI.1330	Moli Imre
+TT.9111	Turán Tamás
+LI.5564	Lengyel István
+FK.5630	Földesi Katalin Ida
+HK.4101	Hamar Károly
+EI.6287	Erdélyi Ivana
+SK.4533	Szűcs Kitti
+VV.8246	Vincze Vivien
+BB.8483	Benkő Blanka
+BB.4513	Bereczki Bernadett
+VA.0359	Varga András
+LV.9121	Lakatos Vera
+CM.4548	Csizmadia Mónika
+BZ.9764	Benkő Zsófia
+FE.7877	Farkas Elek
+NM.2008	Nagy Mónika
+BL.1618	Boldizsár Lili
+BI.0599	Berényi István
+BA.7773	Bodnár Anita Réka
+DZ.3353	Domonkos Zsolt
+HE.4604	Horváth Ervin
+TE.5221	Tari Enikő
+KZ.0395	Kosztolányi Zsófia Viktória
+KT.0459	Kamarás Tekla
+BZ.5983	Buzás Zoltán
+KA.3293	Kiss Anna Magdolna
+SZ.3537	Seprényi Zita
+LH.6870	Lehóczki Hugó
+CL.7897	Csontos Lilla
+PP.3278	Pusztai Petra
+JA.9259	Jován Annabella
+WA.7808	Weiler András
+MD.7267	Magyari Dóra
+NN.1936	Nagy Norbert
+NE.8938	Németh Ernő
+PK.8359	Papp Krisztina Erika
+KE.9613	Keszthelyi Evelin
+BT.9896	Boldog Tamás
+FM.2056	Farkas Mihály
+JF.5763	Jeny Frigyes
+FZ.2691	Fodor Zsófia
+MP.4948	Molnár Péter
+DO.7540	Déri Ottó
+SZ.1507	Solymosi Zoltán
+GA.5664	Grúber Anna
+TV.3306	Takács Viktória
+KF.5885	Kiss Fanni Lívia
+PN.4200	Plólyik Noémi
+NA.8989	Nemes Anna
+SZ.8420	Szabó Zsófia
+MÁ.1166	Mester Ágnes
+KP.2242	Kertész Péter
+RN.8935	Rácz Nóra
+TM.7445	Tóth Márta
+BM.2708	Budavári Melitta
+KD.9655	Kováts Dzsenifer
+KO.3883	Kasznár Ottó
+BV.6067	Buda Vanessza
+BJ.9084	Borka János
+SA.0726	Sebők Anikó Dorina
+GJ.3600	Gömöri József
+IS.0514	Irinyi Sára Réka
+VE.9558	Végh Emese
+TI.6284	Tánczos Imre
+NB.3720	Nyolcas Blanka
+BV.3992	Berta Viola
+SJ.3347	Somi József
+KK.6853	Kovács Klaudia
+DP.8019	Dani Petra
+EJ.8890	Elek József
+SE.8312	Sár Endre
+TV.0831	Teleki Viktória
+DT.2128	Dábity Tamás
+ME.5005	Mészáros Eszter Aliz
+SÖ.4080	Szónok Ödön
+PÁ.8866	Péter Áron
+PG.1224	Puskás Géza
+HR.9880	Hirzer Róbert
+TO.7628	Terjéki Orsolya
+MR.6252	Müller Réka
+KB.0973	Kuti Blanka
+KP.1420	Kristóf Péter
+SR.9913	Szántó Regina
+BJ.1909	Balog Johanna Ágnes
+NE.8592	Nagy Emese
+KZ.5427	Kovács Zsófia
+LC.1783	Lévai Csongor
+UM.2650	Urbán Melinda
+SÁ.1945	Szabó Ábel
+SL.2776	Sima Lili Barbara
+SI.9506	Sáry István
+KT.3693	Korcsok Tímea
+ML.8721	Molnár Levente
+CC.8149	Csuka Csaba
+SA.5551	Sári Anett
+SP.8177	Savanya Patrícia
+HR.6312	Horányi Róbert
+GN.4140	Guttmann Nóra Gréta
+BÉ.6108	Bérczi Éva
+RK.5679	Réti Karen
+VA.2259	Vass Anett
+PZ.5820	Pisty Zsolt
+GL.2493	Garadnai László
+SC.0666	Szabó Csaba
+MG.2583	Mészáros Gergely
+SF.4730	Szabó Flóra
+SR.0771	Som Róbert
+SC.0593	Séra Csilla
+KA.3780	Kovács Annamária
+SN.8048	Szokai Nóra
+KR.1250	Kónya Rebeka
+BV.8613	Bánfalvi Virág Sarolta
+KV.6227	Kovács Vilmos
+SP.6924	Szabó Pál
+KZ.0655	Kószó Zsolt
+KZ.1562	Kelemen Zsófia Magdolna
+RL.4390	Réti Lilla
+WA.8639	Weisz Adrienn
+ZI.1687	Zombori Ildikó
+KG.9667	Kárpáti Gréta
+PD.1010	Pászti Dénes
+ÁS.7670	Ádám Szurázs
+HM.1325	Hajdú Márk
+RÁ.9031	Rákos Ágnes
+PR.2086	Pintér Renáta
+CA.0110	Csonka Andrea Kata
+TB.5503	Takács Béla
+HJ.9546	Hrúz József
+KS.2599	Kovács Szabolcs
+CA.5867	Csiszár Aliz
+JZ.1385	Juhász Zita Zsófia
+NA.3383	Nádudvari Anna
+SR.3743	Solti Réka
+NL.0666	Nagy Lili
+BG.0584	Borbély Gábor
+KO.6867	Kopasz Olivér
+BB.6597	Balog Blanka Júlia
+MR.2266	Molnár Róbert
+KR.8740	Kispéter Richárd
+TA.0240	Tóth Anna
+RR.1938	Rovó Rea
+SV.4386	Seprenyi Viktória Liza
+PL.7005	Pataki Lilla Brigitta
+VP.4293	Varga Péter
+RÁ.0491	Rudas Ágnes
+BD.7017	Bányai Dóra
+MN.2313	Máté Nikolett
+KT.8785	Kása Tamás
+BL.3216	Botos László
+MN.5413	Mind Norbert
+HD.5835	Hámori Dóra
+MI.8474	Matuszka István
+GG.4642	Gyapjas György
+TS.7842	Tóth Szabolcs
+SP.7181	Sós Péter
+SZ.5839	Szabó Zoltán
+GZ.1249	Gyömbér Zsófia
+MB.1464	Marsi Brigitta
+HB.5620	Hursán Barbara
+PJ.2796	Palotai János
+KM.5655	Kis Mercédesz
+DZ.2573	Dombi Zsolt
+NK.3783	Nógrádi Klaudia
+PH.1891	Püspök Hugó
+KL.2811	Katona Lilla
+SM.9865	Szabó Máté
+KD.0713	Kurucz Dorottya
+BÉ.6009	Bálint Éva
+NK.3080	Nagy Kata
+PM.3407	Pálinkás Mónika Krisztina
+BR.4487	Bárány Renáta
+VA.6073	Varga Alexandra
+BL.2288	Béres Laura
+FA.4088	Farkas Anikó
+PA.3366	Pribai Anna
+CK.7336	Csíbor Kata
+PZ.3422	Presszer Zita Orsolya
+BH.2477	Bertók Helga
+DZ.0482	Dudás Zoltán
+ST.9977	Szűcs Tamás
+PR.4192	Papp Réka Sarolt
+BK.2557	Bálint Kitti
+ZA.1437	Zombori Adél
+SG.4984	Szekeres Gábor
+KM.0064	Kis Melitta Éva
+NI.0802	Nyári Imre
+LO.6456	Leander Orsolya Virág
+PB.8902	Pusztai Béla
+BR.7690	Bozóki Róbert
+TF.2566	Török Ferenc
+BF.9222	Balla Flóra
+BJ.3138	Bog József
+NI.7875	Nagy Izabella Diána
+FI.7903	Forgó Imre
+BL.4357	Bild László
+LA.7899	Lipót Alexandra Éva
+TT.5109	Tóth Tibor
+BS.8812	Borsos Szilvia
+MR.9395	Marosi Róbert
+BK.5793	Bata Kitti
+SJ.5290	Szabó János
+GF.7188	Gyimesi Fruzsina
+KL.0555	Katona Lilla
+KG.9294	Keresztes Géza
+SB.5954	Szántó Balázs
+VG.3314	Váradi Gréta
+PL.3848	Pásztor Lívia
+EF.1115	Elek Flóra
+MG.0051	Markos Gábor
+GZ.2610	Gyurik Zsigmond
+BR.2130	Bálint Réka Zsófia
+GA.2975	Gyetvai Anna
+DF.9341	Démon Fanni
+TÁ.5800	Tornyos Ágnes
+VB.8083	Vásárhelyi Borbála
+HN.3762	Hrisztov Nikolett
+KG.6963	Király Gábor
+TZ.6012	Tiszai Zsófia Julianna
+NÁ.0883	Nagy Ágnes
+MP.1869	Minek Péter
+SK.0547	Szentei Kata
+MZ.7231	Mach Zsanett
+FZ.0441	Fejes Zsófia
+SG.6711	Szabó György
+NT.2825	Nyakas Tamás
+ÁP.8870	Ábel Pál
+VI.6465	Vajna Id
+OB.4080	Opál Bettina
+HA.2913	Horváth Antal
+HE.1802	Hoffmann Edit
+BV.1252	Bortoli Viktória
+HI.5860	Horváth Ildikó
+PZ.5131	Pályi Zsuzsanna
+JZ.0375	Juhász Zita
+TZ.8747	Toldi Zoltán
+NE.7433	Nagy Edina
+BA.0955	Barta Attila
+PJ.7593	Papp János
+LP.3065	Lauck Péter
+KD.2748	Karlsen Dóra
+PV.9623	Pók Veronika
+LD.8285	Ladányi Dóra Gréta
+VD.4792	Vass Diána Erika
+KZ.3839	Kalmár Zoltán
+KN.5091	Kremp Noémi
+FB.3081	Fazekas Béla
+HG.8463	Holzi Gusztáv
+JA.1261	Jónás Anasztázia
+FI.2594	Fazekas Ildikó
+ST.1388	Somogyi Tas
+IB.2626	Illés Borbála Éva
+ET.9171	Eisner Tímea
+HI.0471	Hódi István
+ÉI.1320	Ébner István
+UD.6021	Urbán Dorottya
+BL.2493	Bognár Lili
+AZ.4317	Almási Zoltán
+KE.5770	Kovács Ede
+KA.6760	Kiss Anna
+NG.3685	Novák Gábor
+LA.4055	Lima Alexandra
+FA.0859	Faragó Anna
+BK.2795	Borbás Kis Nóra Kata
+KM.9421	Kiss-Szabó Mihály
+LE.1664	Lisztes Elek
+KB.7935	Kőszegi Béla
+KL.0128	Konrád Lilla
+NS.0091	Nagy Szimonetta
+SL.0953	Szalma Lajos
+DE.4400	Dorogi Endre
+IV.8600	István Vanessa
+BD.1068	Bodnár Dóra
+SP.1261	Szőke Péter
+JP.2869	Javai Petra
+FB.6369	Fekete Balázs
+VJ.7309	Varga József
+SZ.3418	Somogyi Zsolt
+VK.9974	Varga Kristóf
+KT.3375	Kószó Tímea
+JZ.7509	Juhász Zsuzsanna
+KV.7158	Kiss Vivien
+KO.6387	Kiss Oszkár
+TD.0542	Török Dániel
+FA.7252	Farkas Attila
+NJ.4459	Németh Johanna Réka
+VZ.2157	Veres Zoltán
+KV.5448	Kolláth Vivien
+KA.5612	Kincses Annamária
+PC.8778	Petres Csaba
+CA.3447	Csanády Alexandra
+VL.8552	Varga Lajos
+ZK.0196	Zerk Kata
+SI.5588	Sebes Igor
+HD.3180	Hegedüs Dóra
+VM.4330	Vlad Mónika
+KG.2937	Kovács Gábor
+VZ.9407	Váradi Zita
+TÁ.6462	Tóth Ágnes
+KÁ.9181	Kónya Ádám
+PE.3881	Pipás Endre
+KJ.7692	Kaltenbrunner József
+KG.5759	Koródy Gábor
+KÁ.3479	Karsai Áron
+NÁ.8086	Nagy Ágost
+JP.5653	Jeszmás Péter
+SK.8056	Schulcz Károly
+FN.3441	Fehér Noémi
+BÉ.5035	Benkő Éva
+KO.7409	Kecskés Ottó
+SE.4988	Szolnoki Eszter
+HÁ.9604	Horváth Ágota
+BÁ.5107	Balogh Ákos
+ML.8755	Márkus Luca
+MB.0743	Monostori Bettina
+DN.4292	Dóka Nóra Judit
+TR.9276	Tóth Réka
+SA.2066	Szabó Anett
+BL.1963	Balogh Lili
+KÁ.8897	Kardos Ákos
+KI.8112	Kun István
+FV.6217	Farkas Vilmos
+DZ.5170	Dócz Zsolt
+ZB.0230	Zsolnai Boglárka
+GF.0541	Gyulai Flórián

@@ -1,0 +1,118 @@
+id	nev	meret	ar
+1	4 sajtos	22	1150
+2	4 sajtos	30	1450
+3	4 sajtos	45	2850
+4	Baconös	22	1250
+5	Baconös	30	1550
+6	Baconös	45	2950
+7	Big Boss	22	1150
+8	Big Boss	30	1450
+9	Big Boss	45	2850
+10	Bitang	22	1250
+11	Bitang	30	1550
+12	Bitang	45	2950
+13	Bolognai	22	1150
+14	Bolognai	30	1450
+15	Bolognai	45	2850
+16	Chee-pollo	22	1250
+17	Chee-pollo	30	1550
+18	Chee-pollo	45	2950
+19	El Bandi	22	1150
+20	El Bandi	30	1450
+21	El Bandi	45	2850
+22	Elvis	22	1400
+23	Elvis	30	1750
+24	Elvis	45	3150
+25	Fitness	22	1250
+26	Fitness	30	1550
+27	Fitness	45	2950
+28	Fogadósné	22	1400
+29	Fogadósné	30	1750
+30	Fogadósné	45	3150
+31	Füstös	22	1150
+32	Füstös	30	1450
+33	Füstös	45	2850
+34	Gringo’s	22	1150
+35	Gringo’s	30	1450
+36	Gringo’s	45	2850
+37	Gyros	22	1400
+38	Gyros	30	1750
+39	Gyros	45	3150
+40	Hawaii	22	1150
+41	Hawaii	30	1450
+42	Hawaii	45	2850
+43	Iron	22	1250
+44	Iron	30	1550
+45	Iron	45	2950
+46	Jalapeno	22	1250
+47	Jalapeno	30	1550
+48	Jalapeno	45	2950
+49	Jocee	22	1250
+50	Jocee	30	1550
+51	Jocee	45	2950
+52	Kinder	22	1250
+53	Kinder	30	1550
+54	Kinder	45	2950
+55	Laktózmentes	22	1400
+56	Laktózmentes	30	1750
+57	Laktózmentes	45	3150
+58	Légionárius	22	1250
+59	Légionárius	30	1550
+60	Légionárius	45	2950
+61	Magyaros	22	1150
+62	Magyaros	30	1450
+63	Magyaros	45	2850
+64	Margherita	22	1050
+65	Margherita	30	1300
+66	Margherita	45	2590
+67	Milano	22	1150
+68	Milano	30	1450
+69	Milano	45	2850
+70	Nagy fehér	22	1150
+71	Nagy fehér	30	1450
+72	Nagy fehér	45	2850
+73	Nebulo	22	1150
+74	Nebulo	30	1450
+75	Nebulo	45	2850
+76	Ragadozó	22	1400
+77	Ragadozó	30	1750
+78	Ragadozó	45	2850
+79	Roberto	22	1150
+80	Roberto	30	1450
+81	Roberto	45	2850
+82	Sonkás-csirkés	22	1150
+83	Sonkás-csirkés	30	1450
+84	Sonkás-csirkés	45	2850
+85	Sonkás-gombás	22	1050
+86	Sonkás-gombás	30	1300
+87	Sonkás-gombás	45	2590
+88	Sonkás-sajtos	22	1050
+89	Sonkás-sajtos	30	1300
+90	Sonkás-sajtos	45	2590
+91	Spártai	22	1250
+92	Spártai	30	1550
+93	Spártai	45	2950
+94	Szalámis	22	1150
+95	Szalámis	30	1450
+96	Szalámis	45	2850
+97	Texas	22	1400
+98	Texas	30	1750
+99	Texas	45	3150
+100	Tikka	22	1400
+101	Tikka	30	1750
+102	Tikka	45	3150
+103	Tonhalas	22	1400
+104	Tonhalas	30	1750
+105	Tonhalas	45	3150
+106	Tündérkert	22	1400
+107	Tündérkert	30	1750
+108	Tündérkert	45	3150
+109	Vegetáriánus	22	1050
+110	Vegetáriánus	30	1300
+111	Vegetáriánus	45	2590
+112	Vezúv	22	1150
+113	Vezúv	30	1450
+114	Vezúv	45	2850
+115	Wellness	22	1250
+116	Wellness	30	1550
+117	Wellness	45	2950

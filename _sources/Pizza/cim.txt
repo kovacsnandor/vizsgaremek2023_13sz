@@ -1,0 +1,389 @@
+id	nev	utca	hsz
+1	Skvar Tamás	Rezeda utca	56/b
+2	Tatár István	Beszédes József sétány	3
+3	Siket Karen	Arany János utca	50
+4	Horváth Mercédesz	Sztráda utca	12/2
+5	Dombovári Petra	Madách Imre utca	14
+6	Rém Elek	Kézműves utca	47
+7	Kamarás Zsófia Viktória	Bakony utca	43
+8	Sebő Tas	Hermann Ottó utca	28
+9	Szendrődi Csaba	Vilma utca	70
+10	Berger Péter	Fenyves tér	14
+11	Csonka Anna	Vak Bottyán utca	66/a
+12	Szelei Anikó Dorina	Máté utca	85
+13	Kovács Ágnes	Diófás út	41
+14	Szőke Mátyás	Béri Balogh Ádám utca	78/c
+15	Kiss Zsófia	Somfa utca	72
+16	Bakos Kata Judit	Kinga utca	28
+17	Bodnár Anna Katalin	Jegenye sor	16
+18	Keszthelyi Zsolt	Templom utca	60
+19	Kiss Lajos	Huba utca	42
+20	Szabó Orsolya Virág	Majoros utca	63
+21	Vég Kálmán	Aradi utca	6
+22	Hirzer Zsolt	Örsi utca	38
+23	Kincses Zoltán	Birs utca	59
+24	Zentay Réka	Széchenyi utca	68
+25	Kovai Róbert	Herman Ottó utca	55
+26	Koch Róbert	Pusztatorony tér	25
+27	Szilágyi István	Kiss János altábornagy utca	10
+28	Horváth Pál	Juhász Gyula utca	4
+29	Duma Árpád	Vak Bottyán utca	66/a
+30	Nemes Gerda	Szegfű utca	72
+31	Zsolnai Péter	Béke utca	70
+32	Illés Nóra	Rizling utca	15
+33	Fődi Anna	Partfölei utca	84
+34	Szűcs Lóránt	Akácfa utca	77
+35	Borsos Anett	Tavasz utca	27
+36	Sarlós Róbert	Diós tér	29
+37	Hoffmann Bettina	Koch Róbert utca	22
+38	Farkas Ildikó	Madarász Viktor utca	8
+39	Gál Brigitta	Tulipán utca	79
+40	Szabó Izabella Diána	Marosi út	35
+41	Rácz Lili	Klapka György utca	82
+42	Botos Noémi	Töreki uca	47
+43	Kasznár Judit	Móra Ferenc utca	45
+44	Lengyel Zsófia	Clark Ádám utca	15
+45	Kerekes Lili	Eperfa utca	31
+46	Kis Barbara Emma	Árpád utca	22
+47	Vida Csongor	Márton köz	28
+48	Nagy Eszter	Erkel Ferenc utca	52
+49	Benkő Kata Enikő	Taksony utca	6
+50	Urbán Roland	Sáros utca	44
+51	Samu Blanka	Orgona utca	52
+52	Pálinkás Anna	Napfény utca	9
+53	Falch Emil	Építő utca	24
+54	Teleki Kálmán	Árpád utca	17
+55	Sima Dezső	Kunfi Zsigmond utca	32
+56	Rudas Ádám	Mandulás utca	29
+57	Forrai Laura	Kilit-Ságvár bringa út	28
+58	Irinyi Katalin Ida	Ortutay Gyula utca	55
+59	Hódi Vivien	Vitorlás utca	5
+60	Máté Oszkár	Panoráma utca	72
+61	Püski Kata	Lázár Vilmos utca	74
+62	Mészáros Anita Réka	Orsolya utca	28
+63	Kis Nóra Judit	Halápy János utca	3
+64	Nyári Judit	Somfa utca	14
+65	Balog Orsolya	Csordahegy köz	33/a
+66	Zombori Adrienn	Turi István utca	29
+67	Tóti Albert	Vasúti utca	83
+68	Szabó Lilla	Vadalma utca	12/b
+69	Petres Zoltán	Őrház utca	66
+70	Barta Petra	Váci Mihály utca	48
+71	Rovó Petra	Sáros utca	47
+72	Bor János	Cseresznye utca	44
+73	Fogó Róbert	Clark Ádám utca	59
+74	Juhász Imre	Vas Gereben utca	71
+75	Nagy Tímea	Jegenye sor	37
+76	Tanács Lilla	Szépvölgyi köz	18
+77	Kiss Sándor	Bél Mátyás utca	30
+78	Kovács Vivien	Szeptember 6. tér	37
+79	Kun Anna	Zsilip sor	3
+80	Pályi Balázs	Koppány utca	26
+81	Kristóf Petra	Bláthy Ottó utca	80
+82	Gábor Zita	Rákóczi utca	21
+83	Lakatos Zita Ildikó	Zúgó utca	59
+84	Garadnai Zoltán	Jázmin utca	22
+85	Bognár Ágnes	Napsugár utca	41
+86	Dobi Brigitta Krisztina	Diófa utca	7
+87	Dócz Károly	Fehérvári utca	22
+88	Halász Norbert	Tímea utca	35
+89	Szántó Lilla	Rippl Rónai utca	43
+90	Dóka Csenge	Dózsa György utca	56
+91	Juhász Cintia	Hétvezér utca	8
+92	Borisz Norbert	Jázmin köz	30
+93	Wollek Ottó	Rákóczi utca	7
+94	Kárpáti Annamária	Vak Bottyán utca	66/a
+95	Sebok Franciska	Fenyves tér	47
+96	Jónás Nikolett	Strand utca	25
+97	Kiss-Szabó Péter	Kinga utca	10
+98	Kármán Luca	Sáros utca	24
+99	Csontos Imre	József Attila utca	23
+100	Kovács Lili	Zsolt utca	85
+101	Bodosi Béla	Ortutay Gyula utca	29
+102	Nagy Eszter	Cseresznye utca	86
+103	Bálint Laura	Mészöly Géza utca	30
+104	Bodrogi Gergely	Réka utca	11
+105	Bata Ágnes	Diófa utca	68
+106	Veres Annamária	Tünde utca	53
+107	Sipos Lilla	Pálóczy Horváth Ádám utca	84
+108	Oláh Sztella	Szigliget utca	29
+109	Gyömbér Ágnes	Móra Ferenc utca	32
+110	Juhász Viktória	Zsilip sor	56
+111	Fodor Nikolett	Székely Bertalan utca	19
+112	Kiss Orsolya	Nyáron gazos	14
+113	Ördög Fanni Zsófia	Alsó utca	7
+114	Kosztolányi András	Csíky Gergely utca	12
+115	Sebők Flóra	Bihari utca	78
+116	Kószó Petra	Orsolya utca	5
+117	Guttmann Gábor	Madách Imre utca	53
+118	Mészáros Stella	Rezeda utca	68
+119	Hegedűs Réka	Köztársaság utca	2
+120	Kurucz Rebeka Judit	Kőrösi Csoma Sándor utca	17
+121	Béla Kitti	Mandulás utca	21
+122	Kovács Győző	Székely Bertalan utca	40
+123	Molnár Gergely	Csíky Gergely utca	33
+124	Szabó Viktória	Glatz Henrik utca	39
+125	Sós Imre	Sándor utca	49
+126	Kiss Rea	Diós tér	13
+127	Bíró Alexandra Éva	Szilágyi Erzsébet fasor	33
+128	Terjéki Zsuzsanna Emese	Szőlőhegy út	81
+129	Kipall Ede	Virág utca	74
+130	Lovai László	Csopak utca	34
+131	Kuti Zoltán	Ybl Miklós utca	7/c
+132	Moli Hugó	Öreghegyi utca	35
+133	Zombori Lili	Hétvezér utca	8
+134	Tomma Árpád	Herman Ottó utca	10
+135	Nagy Tímea	Klapka György utca	38
+136	Hegyközi Tünde Dóra	Álmos utca	35
+137	Kockás Tamás	Jázmin utca	54
+138	Borbás Ferenc	Zöldmező utca	18
+139	Holzi Ervin	Sáros utca	12
+140	Varga Éva	Ybl Miklós utca	26
+141	Tóth Zita	Hűvösvölgyi utca	62
+142	Sipos Réka	Kökény utca	21
+143	Csonka Zita	Keöd kapitány utca	70
+144	Takács Ágota	Tihany utca	71/d
+145	Marsi Nóra	Juhász Gyula utca	70
+146	Bányai Balázs	Egressy Gábor utca	70
+147	Varga Petra	Cserszegi köz	84
+148	Bencsik Áron	Sáros utca	12
+149	Farkas Lilla	Kandó Kálmán utca	9
+150	Hajdú Kitti Ildikó	Hajnóczy József utca	64
+151	Herédi Gabriella	Szeptember 6. tér	8
+152	Bajnai Zsuzsanna	Liszt Ferenc utca	5
+153	Budai Tamás	Budai Nagy Antal utca	65
+154	Keresztes Zsolt	Álmos utca	29
+155	Kopasz Klaudia	Bornemissza utca	75
+156	Kiss Stella	Csorda út	49
+157	Horváth Rita	Borvirág utca	11
+158	Erdélyi Dóra	Péter-Pál utca	4
+159	Mészáros Emília	Puskin utca	26
+160	Pusztai Géza	Ybl Miklós utca	10
+161	Mach Mózes	Tóth Lajos utca	27
+162	Bertók Katalin	Jácint utca	76
+163	Balog Tibor	Goldmark Károly utca	40
+164	Nógrádi Alexandra	Mikszáth Kálmán utca	73
+165	Varga Stella Gréta	Pacsirta utca	42
+166	Herceg Natália	Álmos utca	5
+167	Zerk Endre	Zichy Miklós utca	19/a
+168	Benedek Anna	Ipar utca	78
+169	Ladányi Renáta	Vasút tér	73
+170	Makra Csenge Kata	Örsi utca	3
+171	Bárány Noémi	Malom utca	84
+172	Török Éva	Ákos utca	19
+173	Hódi Katalin	Boglárka utca	64
+174	Urbán Zsófia Katalin	Zamárdi utca	76
+175	Ádám Éva	Bartók Béla utca	65
+176	Németh Rebeka Anna	Kenesei utca	12
+177	Bodor Flóra	Zsilip sor	64
+178	Pintér Zoltán	Tímea utca	51
+179	Kaltenbrunner Norbert	Blaha Lujza utca	75
+180	Ébner Dezső	Viola utca	21
+181	Fábián Nóra	Máté utca	33
+182	Nagy Eta	Birs utca	13
+183	Tárkány Csilla	Csokonai Vitéz Mihály utca	58
+184	Varga Alexandra	Verebes dűlő	48
+185	Varga Emese	Lázár Vilmos utca	12
+186	Nagy Eszter	Csopaki utca	19
+187	Tan József	Pusztatorony tér	1
+188	Koródy Tamás	Fáy András utca	81
+189	Püspök Anna	Nefelejcs köz	55
+190	Nagy Anna Magdolna	Kereszt utca	72
+191	Szűcs Fanni Lívia	Kossuth Lajos utca	77
+192	Csanády Virág Sarolta	Lampért Géza utca	8
+193	Török Patrícia	Verebesi utca	68
+194	Molnár Dorottya	Emese utca	64
+195	Csizmadia Mónika	Jegenye sor	17
+196	Kereki Pál	Perczel Mór utca	76/2
+197	Seprényi Adrienn	Béke tér	71
+198	Török Réka Zsófia	Pusztatorony tér	61
+199	Erdélyi Réka	Rákóczi Ferenc utca	5
+200	Kozmann György	Hajnal utca	70/3
+201	Nyári Anna	Berzsenyi Dániel utca	74
+202	Takács Veronika	Horgony utca	69
+203	Vajna Sára Réka	Soós Lajos utca	4
+204	Földesi Kata	Kereszt utca	28
+205	Lehóczki Bernadett	Daday Kálmán utca	24
+206	Baranyi Noémi Lilla	Állomás tér	49
+207	Horányi Lilla Krisztina	Kölcsey Ferenc utca	51
+208	Nyakas Dénes	Árpád utca	3
+209	Ormos Zoltán	Napfény utca	6
+210	Somogyi Orsolya	Kerékpárút	75
+211	Lindh Karl	Ágnes utca	84
+212	Szilasi Eszter Dalma	Hajnóczy József utca	39
+213	Mind Ákos	Mandulás utca	63
+214	Lisztes Imre	Sándor utca	45
+215	Esztergályos Gábor	Bimbó utca	48
+216	Török Ildikó	Bocskai utca	24
+217	Kovács Anikó	Say Ferenc utca	44
+218	Kovács Imre	Napsugár utca	48
+219	Sár Gábor	Liszt Ferenc sétány	41
+220	Blum Ottó	Hajnóczy József utca	82
+221	Tóth Zoltán	Küszhegyi út	19
+222	Presszer Hugó	Tessedik Sámuel utca	28
+223	Bitó Helga	Szépvölgyi utca	16
+224	Bitó Réka Emese	Somlay Artúr utca	1
+225	Dábity Ottó	Szabadság utca	3
+226	Nik Ferenc	Köztársaság utca	8
+227	Berta Alexandra	Füredi utca	66/c
+228	Kincses Blanka	Hegyvölgyi út	62/a
+229	Lajos Lajos	Tompa Mihály utca	28
+230	Binszki Diána Erika	Vécsey Károly utca	83
+231	Kiss Blanka	Hunor utca	74
+232	Bog Aladár	Pipacs utca	50
+233	Béres Réka Sarolt	Csárdaréti utca	83
+234	Császár Mónika Krisztina	Szőlőhegyi utca	4
+235	Szűcs Miklós	Berda József utca	40
+236	Kószó Annamária	Ybl Miklós utca	9
+237	Séra Mihály	Szigliget utca	58
+238	Sági Anikó	Bocskai köz	9
+239	Gyulai Zsófia Julianna	Hunor utca	67
+240	Kisó Ábel	Csalogány utca	49
+241	Kovács Zoltán	Hajnóczy József utca	68
+242	Korsós Kálmán	Babits Mihály utca	45
+243	Bedő Anna	Kosztolányi Dezső utca	37
+244	Kelemen Enikő	Deák Ferenc tér	3
+245	Pálfi Evelin	Szamóca utca	38
+246	Csíbor Tamás	Tulipán utca	5
+247	Zólyomi Kristóf	Csicsali utca	66
+248	Vlad Igor	Csíky Gergely utca	19
+249	Papp Vanessza	Őszirózsa utca	9
+250	Nagy Réka	Noszlopy Gáspár utca	2
+251	Pintér Edit	Semmelweis utca	80
+252	Tihanyi Károly	Kisfaludy utca	24
+253	Fazekas Zsófia Mariann	Jegenye sor	63
+254	Éger Imre	Halápy János utca	30
+255	Jag Antal	Mártírok útja	3
+256	Barta Luca Lídia	Kende utca	10
+257	Miklósi István	Munkácsy Mihály utca	48
+258	Fodor Zita Orsolya	József Attila utca	27
+259	Dömötör Daniella	Füredi utca	8
+260	Bató Zita	Zsombor utca	83
+261	Ábel Ágnes	Csilla utca	52
+262	Rácz Gábor	Klapka György utca	17
+263	Hegedüs Laura	Csicsali utca	19
+264	Árva Veronika	Tünde utca	35
+265	Pataki Zsolt	Helikon utca	86
+266	Réti Flóra	Köztársaság utca	57/a
+267	Kovács Pál	Vikár utca	66
+268	Savanya Dorottya	Gergely Jenő utca	83
+269	Kónya Tímea	Vitorlás utca	56
+270	Molnár Gréta	Beszédes híd	53
+271	Beke Kata	Thököly utca	6
+272	Juhász Blanka Júlia	Csilla utca	69
+273	Lima Id	Mogyoró utca	87
+274	Szedlacsek Pál	Benczur Gyula utca	74
+275	Sümegi Fanni Erika	Tóth Lajos utca	76
+276	Tóth Dóra	Péter-Pál utca	81
+277	Herédi Boglárka	Dankó utca	52
+278	Szabó Lilla Sára	Petőfi sétány	30
+279	Kónya Bettina	Koosárd utca	2/a
+280	Opál Ernő	Napfény utca	36
+281	Monostori Péter	Vas Gereben utca	47
+282	Bild Zsolt	Kristály utca	42
+283	Palotai Márk	Alkotmány utca	75
+284	Engi Kis Nóra Kata	Darnay Kálmán tér	52
+285	Grúber Tamás	Dr. Révész Géza utca	7
+286	Karsai Péter	Zsombor utca	25/3
+287	Tóth István	Zúgó utca	76
+288	Olasz Sára Réka	Batthyány Lajos utca	36
+289	István Luca	Töreki uca	68
+290	Farkas Petra	Csilla utca	24
+291	Tari Dóra	Szigliget utca	7
+292	Borbás Szimonetta	Vámház utca	1
+293	Mester Tekla	Füredi utca	29
+294	Eisner Tamás	Kacsóh Pongrác utca	76
+295	Molnár Kinga	Evező utca	16
+296	Lipót Ottó	Vas Gereben utca	20
+297	Juhász Zsolt	Viola utca	50
+298	Lózung Rezső	Evező utca	50
+299	Lévai Emese Zsuzsanna	Rajcsányi Péter utca	70
+300	Kristóf Vivien	Kenedy Ferenc utca	61/8
+301	Csorba Edina	Darnay Kálmán tér	79
+302	Pölös Ágost	Marosi út	63
+303	Farkas Kata	Bihari utca	59
+304	Kovács Anita	Rét utca	65
+305	Réti Andrea	Mező utca	84
+306	Farkas Zsuzsanna	Verebes dűlő	5
+307	Mészáros Anasztázia	Vadrózsa utca	37
+308	Masa Zsófia	Körtefa utca	36
+309	Jeszmás Gábor	Bókay János utca	15/g
+310	Benkő Zsófia	Máté utca	11
+311	Hamar Gábor	Fő utca	65
+312	Kelemen Mercédesz	Boglárka utca	37
+313	Borka Dóra	Isztria sétány	74
+314	Pipás Gábor	Semmelweis utca	56
+315	Karasi Károly	Korányi Sándor utca	47
+316	Turán Levente	Batthyány Lajos utca	17
+317	Nagy Mónika	Batthyány tér	84
+318	Horváth Ferenc	Szabolcs utca	83
+319	Mészáros Dominika Ágnes	Kékfrankos utca	61
+320	Nagy Johanna Réka	Attila utca	70
+321	Takács Nikolett	Máté utca	60
+322	Juhász Márta	Szőlőhegyi utca	20
+323	Szabó Fruzsina	Barbara utca	56
+324	Tomka Lilla	Hermann Ottó utca	33
+325	Szabó Viola	Hétvezér utca	71
+326	Gyimesi Béla	Tölgyessy Artúr utca	13/a
+327	Kincses Annabella	Ortutay Gyula utca	16
+328	Szabó Géza	Jókai Mór utca	6
+329	Szabó Zita	Darnay Kálmán tér	14
+330	Seprenyi Csilla	Berda József utca	66
+331	Sári Zita Mária	Málna utca	60
+332	Nikk Gábor	Turi István utca	24
+333	Nagy Emese	Diófás út	70
+334	Bogdándi Réka	Jázmin köz	74
+335	Csuka Dóra	Baross híd	31
+336	Szolnoki István	Than Mór utca	82
+337	Vass István	Zalán utca	85
+338	Király Flóra	Bartók Béla utca	16
+339	Gors Zsigmond	Toldi Miklós utca	21
+340	Ludányi Zsuzsanna	Kosztolányi Dezső utca	52
+341	Illés Renáta	Borvirág utca	34
+342	Almási Krisztina	Barbara utca	47
+343	Lengyel Melitta Éva	Fenyves tér	76
+344	Sebestyén Mátyás	Papfődi utca	37
+345	Balog Ildikó	Almádi utca	6
+346	Patyi Vivien	Erkel Ferenc utca	27
+347	Papp Tímea	Bláthy Ottó utca	47
+348	Forgó Blanka	Devecseri Gábor utca	85
+349	Kiss Evelin	Vajda János utca	41
+350	Puskás Barbara	Zúgó utca	86
+351	Minek Pál	Jankó János utca	18
+352	Balogh Fruzsina Bernadett	Lidó utca	85
+353	Koch Péter	Rigó utca	70
+354	Fenyves Attila	Feszty Árpád utca	48
+355	Guzmin Szabolcs	Fekete István utca	19
+356	Kováts Klaudia	Bakony utca	18
+357	Nádudvari Borbála	Városház tér	78
+358	Mészáros Vera	Tompa Mihály utca	72
+359	Almási Tímea	Feszty Árpád utca	70
+360	Lajkó Aliz	Rákóczi utca	3
+361	Hajhtsa Dániel	Bajcsy-Zsilinszky utca	18
+362	Magyar Attila	Horgony utca	23
+363	Dávid Vanessa	Bókay János utca	57/c
+364	Widek Zsolt	Átrium utca	1
+365	Lázár Krisztina	Liszt Ferenc sétány	27
+366	Tóth Nóra	Állomás tér	28
+367	Seik Áron	Zsilip sor	18
+368	Orosz Pál	Turi István utca	74
+369	Borbély Rebeka	Szeder utca	4
+370	Varga Judit Enikő	Turi István utca	75
+371	Kertész Dorottya	Ribiszke utca	87
+372	Toldi Viktória Liza	Szilágyi Erzsébet fasor	67
+373	Csiszár Petra	Strand utca	87
+374	Tánczos Ernő	Vörösmarty utca	18
+375	Gyurik Anna	Léda utca	21
+376	Bóka Lili	Babits Mihály utca	31
+377	Démon Endre	Borostyán utca	7
+378	Szokai Tamás	Bél Mátyás utca	58
+379	Debreceni Péter	Pusztatorony tér	54
+380	Hódi Anett	Rákóczi utca	21
+381	Juhász Flóra	Arany János utca	75
+382	Lukács Ágnes	Bartók Béla utca	81
+383	Kispéter Zoltán	Csongor utca	19
+384	Révész Krisztina Erika	Rigó utca	7
+385	Jónás Viktória	Emese utca	68
+386	Veres Eszter	Csúszda utca	55
+387	Urbán Dóra	Gyufa utca	61
+388	Tóth András	Beszédes József sétány	22

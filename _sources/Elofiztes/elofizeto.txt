@@ -1,0 +1,104 @@
+id	nev	utca	hazszam
+1	Skvar Tamás	Dagály utca	2
+2	Tatár István	Dagály utca	3
+3	Siket Karen	Dagály utca	3
+4	Horváth Mercédesz	Dagály utca	3
+5	Dombovári Petra	Dagály utca	4
+6	Szekeres József	Dagály utca	7
+7	Kamarás Zsófia Viktória	Dagály utca	7
+8	Sebő Tas	Dagály utca	8
+9	Szendrődi Csaba	Dagály utca	11
+10	Berger Péter	Dagály utca	11
+11	Csonka Anna	Dagály utca	16
+12	Szelei Anikó Dorina	Dagály utca	16
+13	Kovács Ágnes	Dagály utca	17
+14	Szőke Mátyás	Dagály utca	21
+15	Kiss Zsófia	Dagály utca	21
+16	Bakos Kata Judit	Dagály utca	21
+17	Bodnár Anna Katalin	Esztergomi út	2
+18	Keszthelyi Zsolt	Esztergomi út	2
+19	Kiss Lajos	Esztergomi út	2
+20	Szabó Orsolya Virág	Esztergomi út	4
+21	Vég Kálmán	Esztergomi út	4
+22	Hirzer Zsolt	Esztergomi út	4
+23	Kincses Zoltán	Esztergomi út	7
+24	Zentay Réka	Esztergomi út	11
+25	Kovai Róbert	Esztergomi út	21
+26	Koch Róbert	Esztergomi út	21
+27	Szilágyi István	Esztergomi út	25
+28	Horváth Pál	Esztergomi út	27
+29	Duma Árpád	Esztergomi út	27
+30	Kovács Ágnes	Esztergomi út	27
+31	Zsolnai Péter	Népfürdő utca	3
+32	Illés Nóra	Népfürdő utca	3
+33	Fődi Anna	Népfürdő utca	3
+34	Szűcs Lóránt	Népfürdő utca	3
+35	Borsos Anett	Népfürdő utca	3
+36	Sarlós Róbert	Népfürdő utca	3
+37	Hoffmann Bettina	Népfürdő utca	4
+38	Farkas Ildikó	Népfürdő utca	6
+39	Gál Brigitta	Népfürdő utca	6
+40	Szabó Izabella Diána	Népfürdő utca	6
+41	Dudás Krisztián	Népfürdő utca	6
+42	Csordás Kálmán	Népfürdő utca	7
+43	Tóth Alexandra	Népfürdő utca	7
+44	Csóti Bettina	Népfürdő utca	7
+45	Dorogi Nóra Gréta	Népfürdő utca	8
+46	Nemes Petra	Népfürdő utca	8
+47	Schulcz Imola	Népfürdő utca	8
+48	Senkey Tamás	Népfürdő utca	10
+49	Nyers Sándor	Népfürdő utca	10
+50	Szekeres József	Népfürdő utca	10
+51	Berényi Zsolt	Népfürdő utca	12
+52	Bánfalvi Ramóna	Népfürdő utca	12
+53	Rácz Lili	Népfürdő utca	14
+54	Botos Noémi	Népfürdő utca	21
+55	Kasznár Judit	Bodor utca	3
+56	Lengyel Zsófia	Bodor utca	3
+57	Kerekes Lili	Bodor utca	5
+58	Kis Barbara Emma	Bodor utca	5
+59	Vida Csongor	Bodor utca	5
+60	Nagy Eszter	Bodor utca	5
+61	Benkő Kata Enikő	Bodor utca	5
+62	Urbán Roland	Bodor utca	13
+63	Samu Blanka	Bodor utca	13
+64	Pálinkás Anna	Bodor utca	13
+65	Falch Emil	Bodor utca	13
+66	Teleki Kálmán	Bodor utca	14
+67	Sima Dezső	Bodor utca	15
+68	Rudas Ádám	Bodor utca	15
+69	Forrai Laura	Bodor utca	15
+70	Irinyi Katalin Ida	Bodor utca	15
+71	Hódi Vivien	Karikás Frigyes utca	1
+72	Máté Oszkár	Karikás Frigyes utca	4
+73	Püski Kata	Karikás Frigyes utca	4
+74	Mészáros Anita Réka	Karikás Frigyes utca	4
+75	Kis Nóra Judit	Karikás Frigyes utca	4
+76	Nyári Judit	Karikás Frigyes utca	4
+77	Balog Orsolya	Karikás Frigyes utca	4
+78	Zombori Adrienn	Karikás Frigyes utca	5
+79	Tóti Albert	Karikás Frigyes utca	5
+80	Szabó Lilla	Karikás Frigyes utca	6
+81	Petres Zoltán	Karikás Frigyes utca	6
+82	Barta Petra	Karikás Frigyes utca	6
+83	Rovó Petra	Karikás Frigyes utca	6
+84	Bor János	Karikás Frigyes utca	9
+85	Fogó Róbert	Karikás Frigyes utca	9
+86	Juhász Imre	Karikás Frigyes utca	11
+87	Nagy Tímea	Karikás Frigyes utca	11
+88	Tanács Lilla	Karikás Frigyes utca	15
+89	Kiss Sándor	Karikás Frigyes utca	15
+90	Kovács Vivien	Karikás Frigyes utca	15
+91	Kun Anna	Karikás Frigyes utca	17
+92	Pályi Balázs	Karikás Frigyes utca	18
+93	Kristóf Petra	Karikás Frigyes utca	18
+94	Gábor Zita	Karikás Frigyes utca	18
+95	Lakatos Zita Ildikó	Karikás Frigyes utca	18
+96	Garadnai Zoltán	Turbina utca	2
+97	Bognár Ágnes	Turbina utca	2
+98	Dobi Brigitta Krisztina	Turbina utca	2
+99	Dócz Károly	Turbina utca	3
+100	Halász Norbert	Turbina utca	5
+101	Szántó Lilla	Turbina utca	5
+102	Dóka Csenge	Turbina utca	5
+103	Szántó Mónika	Turbina utca	5

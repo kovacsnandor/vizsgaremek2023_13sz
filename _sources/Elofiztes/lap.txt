@@ -1,0 +1,64 @@
+id	tema	cim	havi	negyedeves	feleves	eves	gyakorisag
+32140	kultúra	Antik Tanulmányok				6140	2
+33464	kultúra	Artlocator				4400	2
+422170	közélet	Ceglédi Kék Újság	560	1680	3360	6720	26
+75802	kultúra	Édes Anyanyelvünk				1250	5
+21607	politika	Élet és Irodalom	2150	6300	10800	19860	52
+21906	ismeretterjesztés	Élet és Tudomány	1410	4230	8460	16200	52
+381602	kultúra	Foaia Romaneasca	400	1200	2400	4800	52
+41605	tudomány	Geo		2535	4225	8450	10
+31204	tudomány	Gép				5040	4
+41595	tudomány	Grafológia				5040	6
+42307	tudomány	Hadtörténelmi Közlemények			2000	4000	4
+42390	tudomány	Határtalan Régészet				3000	4
+10009	politika	168 Óra	2300	6480	11490	19920	52
+42716	kultúra	Helikon Irodalomtudományi Szemle			2600	5200	4
+763	politika	Hetek	1580	4740	9000	15000	52
+225100	közélet	Heti Hírek	810	2430	4860	9720	52
+29966	politika	Heti Válasz	2200	6600	11250	19800	52
+43724	kultúra	Hitel			3420	6840	12
+48121	kultúra	Kapu		870	1740	3480	12
+421894	közélet	Kék Nefelejcs	845	2535	5070	10140	52
+13600	mezőgazdaság	Kertészet és Szőlészet	1840	5520	11040	22080	52
+21700	kultúra	Kincses Kalendárium				750	1
+49940	kultúra	Kommentár			1800	3300	6
+49926	kultúra	Kortárs			3690	7380	12
+50036	kultúra	Kritika		1500	3000	6000	12
+53486	kultúra	Lyukasóra			1320	2640	6
+16809	politika	Magyar Demokrata	1560	4680	9360	18720	52
+76102	tudomány	Magyar Épületgépészet				4200	12
+15406	politika	Magyar Fórum	1070	3210	6420	12840	52
+1300	közélet	Magyar Hírlap	3455	9900	18480	33060	307
+2002	közélet	Magyar Idők	2890	8670	17340	34680	307
+77347	kultúra	Magyar Könyvszemle			2600	5200	4
+54779	kultúra	Magyar Krónika	980	2400	4200	7800	12
+16005	mezőgazdaság	Magyar Mezőgazdaság	2060	6180	12360	24720	52
+6312	politika	Magyar Narancs	1990	5970	10980	19860	52
+1506	közélet	Magyar Nemzet	2990	8970	17940	35880	307
+77392	tudomány	Magyar Nyelv				3000	4
+55127	tudomány	Magyar Tudomány		2760	5520	11040	12
+56331	tudomány	Meteor				7200	12
+40800	tudomány	A Földgömb				7500	10
+57136	kultúra	Moldvai Magyarság			1500	3000	4
+57318	kultúra	Mozgó Világ			5400	9000	12
+57428	kultúra	Múlt és Jövő			2900	5000	4
+57916	kultúra	Muzsika			2940	5880	12
+58508	kultúra	Műhely				2400	6
+57040	kultúra	Napút			3000	6000	10
+6209	tudomány	National Geographic			4410	8820	12
+2301	közélet	Népszava	3900	11400	22500	44400	307
+60200	tudomány	Ókor				4000	4
+17800	kultúra	Pesti Műsor			2100	4200	12
+63777	kultúra	Regiment		490	980	1960	4
+65607	kultúra	Soproni Szemle				2400	4
+19400	kultúra	Szabad Föld	1145	3375	6300	12300	52
+67221	kultúra	Színház				5900	10
+68796	tudomány	Természet Világa		2100	4200	8040	12
+68765	tudomány	Természetbúvár				2100	6
+70209	kultúra	Tiszatáj			3000	6000	12
+32102	kultúra	Alföld			3600	7200	12
+610355	tudomány	Történelmi Szemle				3400	4
+421904	közélet	Váci Napló	750	2250	4500	9000	52
+541246	kultúra	Váci Polgár	150	450	900	1800	12
+21205	politika	Vasárnapi Hírek	920	2700	5160	9960	52
+73903	kultúra	Vasi Szemle				2790	6

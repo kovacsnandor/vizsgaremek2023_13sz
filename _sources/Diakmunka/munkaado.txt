@@ -1,0 +1,12 @@
+mhelyid	nev	telepules
+1	Bicaj Futárszolgálat	Csepűfalva
+2	Soós Pékség	Szombati
+3	Pokol Vagyonvédelem	Komád
+4	Vass Kereskedés	Zombrád
+5	Kati Virágbolt	Komád
+6	Fekete Kávéház	Szombati
+7	Körúti Kávéház	Csepűfalva
+8	Királyi Cukrászat	Zombrád
+9	Konty Fodrászat	Szombati
+10	Falat Pékség	Komád
+11	Korr Vaskereskedés	Csepűfalva

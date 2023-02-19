@@ -1,0 +1,93 @@
+id	nev	osztondijas	karid
+1	Szósz Boglárka	1	6
+2	Miklósi Miklós	1	7
+3	Árva Dóra	0	8
+4	Pótz Győző	0	7
+5	Savanya Judit	1	8
+6	Varga Szimonetta	1	3
+7	Almási Jenő	1	2
+8	Püski László	0	1
+9	Lovai Kálmán	0	2
+10	Eszes Albert	1	4
+11	Seprenyi Edit	1	3
+12	Koch Nikolett	0	7
+13	Lengyel Nóra Kata	0	7
+14	Vincze Eszter	0	1
+15	Szedlacsek Luca	1	3
+16	Halmos Anikó	1	6
+17	Kovács Annamária	1	2
+18	Bitó Kálmán	1	5
+19	Benedek Attila	0	6
+20	Dombovári Réka	1	7
+21	Szőke Noémi Eszter	0	2
+22	Senkey Zsuzsanna	1	1
+23	Ördög Kálmán	1	4
+24	Tóth Eszter	1	6
+25	Stofin Luca Lídia	1	8
+26	Debreceni Kata	0	6
+27	Komlósi Katalin	0	2
+28	Jónás Alexandra	1	2
+29	Csonka Lili Lujza	0	4
+30	Illés Béla	1	3
+31	Orosz Zita Ildikó	0	1
+32	Kovács Kálmán	1	4
+33	Herédi Orsolya	1	4
+34	Virág Katalin	0	3
+35	Sebok Anna	0	2
+36	Várkonyi Paulina	1	5
+37	Sós Krisztián	1	8
+38	Kovács Lilla Krisztina	0	7
+39	Blum Emil	1	4
+40	Molnár Roland	1	3
+41	Csordás István	1	8
+42	Dobó Péter	0	4
+43	Sarlós György	0	2
+44	Bedő Emil	1	2
+45	Dömötör Tamás	0	8
+46	Kiss Tímea	1	1
+47	Haraszti Lilla	0	5
+48	Kozmann Réka	1	2
+49	Szűcs Géza	0	1
+50	Bodosi Júlia Anna	1	4
+51	Tánczos Nóra	0	2
+52	Nyíl Szonja	1	7
+53	Tóth Dorottya	1	2
+54	Fodor Sára Réka	0	1
+55	Hegedűs Lilla	1	1
+56	Lakatos Noémi	1	4
+57	Olasz István	0	1
+58	Tóth Luca	1	2
+59	Gyurcsik Dorina	1	3
+60	Zombori Vanessza	0	4
+61	Bóka Bernadett	1	6
+62	Pálos Réka	0	3
+63	Jenei Tibor	0	6
+64	Patyi Zita	1	3
+65	Schaff Aladár	0	4
+66	Szabó Gyöngyi	1	2
+67	Lózung Gábor	1	8
+68	Farkas Karl	0	8
+69	Kővágó Temir	1	7
+70	Kisó Gábor	1	7
+71	Mészáros Viola	1	2
+72	Máté Róbert	1	3
+73	Horváth Annamária	1	4
+74	Szántó Tünde Tímea	0	7
+75	Bózsó Tamás	0	5
+76	Papp Fanni Erika	1	2
+77	Nyers Péter	1	5
+78	Nagy Lajos	1	4
+79	Vastag Georgina	1	3
+80	Kovács Blanka	0	1
+81	Kállai Réka	1	8
+82	Kerekes Ottó	0	3
+83	Tan Zoltán	0	5
+84	Bakos Jácint	1	2
+85	Fábián Imre	1	5
+86	Tóti Réka Evelin	1	5
+87	Varga Zsuzsanna	0	6
+88	Fekete Vivien	1	5
+89	Pálfi Csilla	1	7
+90	Lajkó Elza	1	6
+91	Vass Gabriella	1	8
+92	Bogdándi Tamara	1	5

@@ -1,0 +1,400 @@
+id	datum	targy
+1	2007.01.19	Adatbázisok elmélete
+2	2007.01.16	Szoftverfejlesztés
+3	2006.12.20	Webtervezés
+4	2006.12.28	Szoftverfejlesztés
+5	2007.01.17	Fordítóprogramok
+6	2006.12.22	Fordítóprogramok
+7	2006.12.20	Logikai programozás
+8	2007.01.18	Rendszerfejlesztés
+9	2007.01.16	Tesztelési módszerek
+10	2006.12.22	Assembly programozás
+11	2007.01.15	Logikai programozás
+12	2006.12.27	Optimalizálás
+13	2007.01.11	Szoftverfejlesztés
+14	2007.01.08	Operációs rendszerek
+15	2007.01.26	Rendszerfejlesztés
+17	2007.01.05	Dinamikus logika
+18	2007.01.15	Formális nyelvek
+20	2007.01.17	Szoftverfejlesztés
+22	2007.01.05	Operációkutatás
+23	2006.12.20	Optimalizálás
+24	2007.01.18	Gépi tanulási módszerek
+25	2007.01.05	Algoritmusok és adatszerkezetek
+26	2007.01.25	Irányítástechnika
+27	2006.12.20	Formális nyelvek
+29	2006.12.28	Gépi tanulási módszerek
+32	2007.01.22	Gépi tanulási módszerek
+33	2007.01.11	Irányítástechnika
+34	2007.01.17	Operációkutatás
+35	2007.01.23	Fordítóprogramok
+36	2007.01.22	Adatbázisok
+37	2007.01.04	Dinamikus logika
+38	2006.12.28	Alkalmazás fejlesztés
+39	2006.12.21	Rendszerfejlesztés
+40	2007.01.24	Logika és alkalmazásai
+41	2007.01.26	Operációkutatás
+42	2007.01.03	Logika és alkalmazásai
+43	2007.01.25	Adatbázisok
+44	2007.01.16	Fordítóprogramok
+45	2007.01.09	Operációs rendszerek
+46	2007.01.12	Assembly programozás
+47	2006.12.21	Programozási módszerek
+48	2007.01.23	Adatbázisok elmélete
+49	2007.01.23	Operációkutatás
+50	2006.12.27	Logikai programozás
+51	2007.01.15	Algoritmusok és adatszerkezetek
+52	2007.01.02	Gazdaságinformatikai rendszerek
+54	2007.01.03	Algoritmusok és adatszerkezetek
+55	2006.12.28	Adatbázisok elmélete
+56	2006.12.27	Irányítástechnika
+58	2007.01.23	Operációs rendszerek
+59	2007.01.25	Irányítástechnika
+60	2007.01.03	Dinamikus logika
+61	2007.01.19	Optimalizálás
+62	2007.01.26	Gazdaságinformatikai rendszerek
+63	2006.12.28	Mesterséges intelligencia
+64	2007.01.23	Operációkutatás
+65	2006.12.29	Gráfelméleti algoritmusok
+66	2007.01.18	Digitális képfeldolgozás
+67	2007.01.15	Mesterséges intelligencia
+68	2007.01.12	Szoftvertesztelés alapjai
+69	2007.01.24	Nemlineáris programozás
+70	2007.01.05	Számítógép hálózatok
+71	2007.01.08	Assembly programozás
+72	2007.01.22	Algoritmusok és adatszerkezetek
+73	2007.01.15	Fordítóprogramok
+74	2006.12.20	Gépi tanulási módszerek
+75	2007.01.02	Mesterséges intelligencia
+76	2006.12.27	Szoftvertesztelés alapjai
+77	2007.01.22	Rendszerfejlesztés
+78	2006.12.19	Gépi tanulási módszerek
+79	2007.01.08	Optimalizálás
+80	2007.01.15	Térinformatika
+81	2006.12.29	Szoftverfejlesztés
+82	2007.01.25	Programozási módszerek
+84	2006.12.19	IP alapú hálózatok
+85	2006.12.20	Algoritmusok és adatszerkezetek
+86	2007.01.11	Mesterséges intelligencia
+87	2006.12.27	Logika és alkalmazásai
+88	2007.01.11	Gráfelméleti algoritmusok
+89	2007.01.10	Logikai programozás
+90	2007.01.08	Irányítástechnika
+91	2007.01.10	Számítógép hálózatok
+92	2006.12.29	Operációs rendszerek
+93	2007.01.02	Fordítóprogramok
+94	2007.01.04	Térinformatika
+95	2007.01.17	Logika és alkalmazásai
+96	2007.01.12	Logika és alkalmazásai
+97	2006.12.28	Gazdaságinformatikai rendszerek
+98	2007.01.05	Szoftvertesztelés alapjai
+99	2006.12.18	Gazdaságinformatikai rendszerek
+100	2007.01.12	Logikai programozás
+102	2006.12.20	Digitális képfeldolgozás
+103	2007.01.03	Adatbázisok
+104	2006.12.21	Operációkutatás
+105	2006.12.18	Dinamikus logika
+106	2007.01.10	Programrendszerek fejlesztése
+107	2006.12.19	Számítógép hálózatok
+108	2007.01.09	Gazdaságinformatikai rendszerek
+109	2007.01.26	Programrendszerek fejlesztése
+110	2007.01.25	Formális nyelvek
+111	2007.01.18	Digitális képfeldolgozás
+112	2007.01.03	Multimédia
+113	2007.01.12	Tesztelési módszerek
+114	2007.01.23	Fordítóprogramok
+116	2007.01.04	Adatbázisok
+117	2006.12.28	Dinamikus logika
+119	2006.12.27	Gráfelméleti algoritmusok
+120	2006.12.21	Algoritmusok és adatszerkezetek
+121	2007.01.17	Gépi tanulási módszerek
+122	2007.01.04	Számítógép hálózatok
+123	2006.12.19	Fordítóprogramok
+124	2006.12.29	Adatbázisok elmélete
+125	2007.01.02	Szoftvertesztelés alapjai
+126	2006.12.21	Optimalizálás
+127	2007.01.17	Logikai programozás
+128	2007.01.19	Programrendszerek fejlesztése
+129	2007.01.22	Mesterséges intelligencia
+130	2007.01.03	Térinformatika
+131	2007.01.16	Algoritmusok és adatszerkezetek
+134	2006.12.19	Számítógép hálózatok
+135	2007.01.24	Formális nyelvek
+136	2007.01.11	Szoftverfejlesztés
+137	2006.12.21	Operációkutatás
+138	2007.01.10	Gazdaságinformatikai rendszerek
+139	2007.01.02	Logika és alkalmazásai
+140	2007.01.16	Dinamikus logika
+141	2007.01.12	Gépi tanulási módszerek
+142	2006.12.18	Alkalmazás fejlesztés
+143	2007.01.02	Multimédia
+144	2006.12.28	Szoftvertesztelés alapjai
+145	2007.01.02	Optimalizálás
+147	2007.01.24	Tesztelési módszerek
+148	2006.12.18	Formális nyelvek
+149	2006.12.29	Alkalmazás fejlesztés
+150	2007.01.05	Fordítóprogramok
+151	2007.01.23	Programrendszerek fejlesztése
+153	2007.01.24	Gráfelméleti algoritmusok
+154	2007.01.02	Logikai programozás
+155	2006.12.29	Rendszerfejlesztés
+156	2007.01.10	Multimédia
+157	2007.01.10	Gazdaságinformatikai rendszerek
+158	2006.12.27	Dinamikus logika
+159	2007.01.16	Tesztelési módszerek
+160	2007.01.16	Programrendszerek fejlesztése
+161	2007.01.25	Gazdaságinformatikai rendszerek
+162	2007.01.15	Webtervezés
+163	2007.01.15	Programrendszerek fejlesztése
+165	2007.01.22	Rendszerfejlesztés
+166	2007.01.04	Irányítástechnika
+167	2007.01.26	Nemlineáris programozás
+168	2006.12.22	Rendszerfejlesztés
+169	2007.01.17	Gazdaságinformatikai rendszerek
+170	2007.01.18	Digitális képfeldolgozás
+171	2006.12.22	Tesztelési módszerek
+172	2007.01.15	Tesztelési módszerek
+173	2007.01.04	Gráfelméleti algoritmusok
+174	2007.01.19	Számítógép hálózatok
+175	2006.12.22	Játékelmélet
+176	2006.12.28	Logikai programozás
+177	2007.01.04	Alkalmazás fejlesztés
+178	2007.01.12	Optimalizálás
+179	2006.12.21	Programozási módszerek
+180	2007.01.15	Logikai programozás
+181	2007.01.10	Tesztelési módszerek
+182	2006.12.28	Alkalmazás fejlesztés
+183	2007.01.16	Mesterséges intelligencia
+184	2007.01.26	Nemlineáris programozás
+185	2007.01.17	IP alapú hálózatok
+187	2007.01.08	Programrendszerek fejlesztése
+188	2007.01.18	Szoftvertesztelés alapjai
+189	2007.01.12	Mesterséges intelligencia
+190	2006.12.21	Optimalizálás
+191	2007.01.03	Operációs rendszerek
+192	2006.12.29	Gazdaságinformatikai rendszerek
+194	2006.12.19	Rendszerfejlesztés
+195	2006.12.29	Adatbázisok elmélete
+196	2007.01.08	Mesterséges intelligencia
+197	2006.12.29	Térinformatika
+199	2007.01.11	Multimédia
+200	2007.01.12	Rendszerfejlesztés
+201	2006.12.19	Operációkutatás
+202	2007.01.12	Számítógép hálózatok
+203	2006.12.29	Szoftverfejlesztés
+204	2006.12.18	Multimédia
+205	2007.01.02	Gépi tanulási módszerek
+207	2006.12.20	Fordítóprogramok
+208	2007.01.04	Fordítóprogramok
+209	2006.12.18	Digitális képfeldolgozás
+210	2007.01.22	Gráfelméleti algoritmusok
+211	2006.12.28	Adatbázisok elmélete
+213	2006.12.22	Formális nyelvek
+214	2006.12.21	Digitális képfeldolgozás
+215	2007.01.09	Operációkutatás
+219	2007.01.22	Rendszerfejlesztés
+220	2007.01.04	Gazdaságinformatikai rendszerek
+221	2007.01.04	Operációs rendszerek
+222	2007.01.08	Nemlineáris programozás
+223	2007.01.09	Webtervezés
+224	2006.12.21	Rendszerfejlesztés
+225	2007.01.15	Szoftverfejlesztés
+226	2007.01.24	Digitális képfeldolgozás
+227	2007.01.05	Multimédia
+228	2006.12.18	Operációs rendszerek
+229	2007.01.11	Assembly programozás
+230	2007.01.03	Adatbázisok
+231	2007.01.23	Adatbázisok
+232	2006.12.22	Programozási módszerek
+233	2006.12.21	Logika és alkalmazásai
+234	2007.01.16	Mesterséges intelligencia
+235	2006.12.28	Optimalizálás
+236	2007.01.16	Alkalmazás fejlesztés
+237	2006.12.18	Mesterséges intelligencia
+238	2006.12.19	Optimalizálás
+239	2006.12.19	Számítógép hálózatok
+240	2007.01.23	Digitális képfeldolgozás
+241	2007.01.09	Dinamikus logika
+242	2006.12.18	Algoritmusok és adatszerkezetek
+243	2007.01.12	Webtervezés
+244	2007.01.09	Fordítóprogramok
+245	2007.01.19	Adatbázisok
+246	2006.12.27	Gazdaságinformatikai rendszerek
+247	2007.01.18	Gráfelméleti algoritmusok
+248	2006.12.21	Adatbázisok elmélete
+249	2006.12.19	Operációkutatás
+250	2007.01.18	Nemlineáris programozás
+251	2007.01.09	Gráfelméleti algoritmusok
+252	2006.12.19	Tesztelési módszerek
+253	2007.01.09	Assembly programozás
+254	2006.12.20	Rendszerfejlesztés
+256	2007.01.05	Adatbázisok elmélete
+257	2007.01.24	Digitális képfeldolgozás
+259	2007.01.16	Számítógép hálózatok
+260	2007.01.23	Nemlineáris programozás
+261	2007.01.05	Szoftvertesztelés alapjai
+262	2007.01.04	Adatbázisok
+263	2007.01.23	Optimalizálás
+264	2007.01.26	Digitális képfeldolgozás
+265	2007.01.24	Operációkutatás
+266	2007.01.19	Térinformatika
+267	2007.01.18	Logikai programozás
+268	2007.01.24	Programrendszerek fejlesztése
+269	2007.01.03	Assembly programozás
+270	2006.12.27	Rendszerfejlesztés
+271	2006.12.27	Gazdaságinformatikai rendszerek
+273	2007.01.03	Programrendszerek fejlesztése
+274	2007.01.03	Digitális képfeldolgozás
+276	2006.12.29	Térinformatika
+277	2006.12.22	Webtervezés
+278	2007.01.25	Nemlineáris programozás
+279	2006.12.19	Optimalizálás
+280	2007.01.03	Térinformatika
+281	2007.01.18	Irányítástechnika
+284	2007.01.17	IP alapú hálózatok
+286	2007.01.12	Rendszerfejlesztés
+287	2006.12.21	Rendszerfejlesztés
+288	2006.12.28	Adatbázisok elmélete
+289	2007.01.22	Webtervezés
+290	2007.01.03	Adatbázisok elmélete
+291	2006.12.19	Programozási módszerek
+292	2007.01.23	Webtervezés
+293	2007.01.17	Szoftverfejlesztés
+294	2006.12.21	Algoritmusok és adatszerkezetek
+295	2007.01.23	Programozási módszerek
+296	2007.01.25	Gépi tanulási módszerek
+297	2007.01.02	Optimalizálás
+298	2007.01.22	Digitális képfeldolgozás
+299	2007.01.17	Programrendszerek fejlesztése
+300	2007.01.12	Szoftvertesztelés alapjai
+301	2007.01.17	Gazdaságinformatikai rendszerek
+303	2007.01.19	Webtervezés
+304	2007.01.11	Operációs rendszerek
+305	2007.01.22	Optimalizálás
+306	2007.01.15	Szoftverfejlesztés
+307	2006.12.27	Dinamikus logika
+308	2006.12.27	Formális nyelvek
+309	2007.01.24	Assembly programozás
+310	2007.01.02	Logika és alkalmazásai
+311	2006.12.22	Gazdaságinformatikai rendszerek
+312	2006.12.27	Dinamikus logika
+313	2006.12.22	Digitális képfeldolgozás
+314	2007.01.18	Algoritmusok és adatszerkezetek
+315	2007.01.25	Szoftvertesztelés alapjai
+316	2007.01.08	Irányítástechnika
+317	2007.01.25	Nemlineáris programozás
+318	2007.01.19	Rendszerfejlesztés
+319	2007.01.02	Dinamikus logika
+320	2006.12.19	Formális nyelvek
+322	2007.01.11	Operációs rendszerek
+323	2007.01.26	Programozási módszerek
+324	2007.01.12	Operációs rendszerek
+325	2006.12.18	Gazdaságinformatikai rendszerek
+326	2006.12.19	Gráfelméleti algoritmusok
+327	2007.01.17	Játékelmélet
+329	2007.01.26	Logikai programozás
+330	2006.12.21	Programozási módszerek
+331	2007.01.04	Dinamikus logika
+332	2007.01.25	Térinformatika
+333	2007.01.25	Webtervezés
+334	2007.01.10	Operációkutatás
+335	2007.01.18	Szoftvertesztelés alapjai
+336	2007.01.19	Rendszerfejlesztés
+337	2006.12.19	Adatbázisok
+338	2007.01.26	Alkalmazás fejlesztés
+339	2007.01.08	Nemlineáris programozás
+341	2006.12.18	Rendszerfejlesztés
+342	2006.12.22	Gráfelméleti algoritmusok
+343	2006.12.27	Szoftvertesztelés alapjai
+344	2007.01.09	Digitális képfeldolgozás
+345	2007.01.09	Programozási módszerek
+346	2007.01.22	Tesztelési módszerek
+347	2007.01.25	Térinformatika
+349	2006.12.18	Térinformatika
+351	2007.01.05	Formális nyelvek
+352	2006.12.29	Mesterséges intelligencia
+353	2007.01.05	Assembly programozás
+354	2007.01.04	Szoftverfejlesztés
+355	2007.01.05	Tesztelési módszerek
+356	2007.01.22	Irányítástechnika
+357	2007.01.26	Gráfelméleti algoritmusok
+358	2007.01.17	Logika és alkalmazásai
+359	2006.12.18	Operációkutatás
+360	2007.01.22	Tesztelési módszerek
+361	2007.01.16	Digitális képfeldolgozás
+362	2007.01.25	Gazdaságinformatikai rendszerek
+363	2006.12.20	Multimédia
+364	2007.01.25	IP alapú hálózatok
+365	2006.12.21	Multimédia
+366	2006.12.18	Térinformatika
+367	2007.01.18	Adatbázisok elmélete
+368	2006.12.22	Tesztelési módszerek
+369	2007.01.22	Algoritmusok és adatszerkezetek
+370	2007.01.24	Logikai programozás
+371	2007.01.11	Dinamikus logika
+372	2006.12.19	Szoftverfejlesztés
+373	2007.01.15	Operációs rendszerek
+374	2007.01.15	Nemlineáris programozás
+375	2006.12.29	Gráfelméleti algoritmusok
+376	2007.01.26	Dinamikus logika
+378	2007.01.08	Formális nyelvek
+379	2007.01.17	Operációkutatás
+380	2007.01.26	Szoftverfejlesztés
+381	2006.12.20	IP alapú hálózatok
+382	2007.01.02	Tesztelési módszerek
+384	2006.12.18	Algoritmusok és adatszerkezetek
+385	2007.01.09	Assembly programozás
+386	2006.12.19	Szoftvertesztelés alapjai
+387	2007.01.08	Fordítóprogramok
+388	2007.01.23	Tesztelési módszerek
+389	2007.01.19	Multimédia
+391	2007.01.25	IP alapú hálózatok
+392	2007.01.03	Formális nyelvek
+393	2007.01.09	Adatbázisok elmélete
+394	2007.01.19	IP alapú hálózatok
+395	2006.12.18	Multimédia
+397	2007.01.24	Dinamikus logika
+398	2006.12.18	Adatbázisok elmélete
+399	2007.01.22	Szoftverfejlesztés
+400	2007.01.12	Mesterséges intelligencia
+402	2007.01.09	IP alapú hálózatok
+403	2007.01.23	Operációs rendszerek
+404	2007.01.24	Szoftverfejlesztés
+405	2006.12.18	Irányítástechnika
+407	2007.01.17	Mesterséges intelligencia
+408	2007.01.26	Adatbázisok elmélete
+409	2007.01.19	Logika és alkalmazásai
+410	2007.01.23	Assembly programozás
+411	2007.01.11	Operációkutatás
+412	2006.12.20	Gráfelméleti algoritmusok
+413	2007.01.26	Algoritmusok és adatszerkezetek
+414	2007.01.11	Nemlineáris programozás
+415	2007.01.15	Gráfelméleti algoritmusok
+416	2007.01.15	Rendszerfejlesztés
+417	2006.12.29	Operációs rendszerek
+418	2007.01.02	Alkalmazás fejlesztés
+419	2007.01.26	Mesterséges intelligencia
+420	2007.01.04	Dinamikus logika
+421	2006.12.18	Logika és alkalmazásai
+422	2006.12.20	Operációs rendszerek
+423	2007.01.03	Multimédia
+424	2007.01.16	Mesterséges intelligencia
+425	2007.01.12	Programozási módszerek
+426	2007.01.17	Nemlineáris programozás
+427	2007.01.22	Assembly programozás
+429	2006.12.29	Irányítástechnika
+430	2007.01.16	Programrendszerek fejlesztése
+431	2007.01.04	Assembly programozás
+432	2007.01.12	Szoftvertesztelés alapjai
+433	2007.01.11	Algoritmusok és adatszerkezetek
+434	2007.01.09	Digitális képfeldolgozás
+435	2007.01.11	Optimalizálás
+436	2007.01.02	Játékelmélet
+437	2007.01.02	Irányítástechnika
+438	2007.01.18	Térinformatika
+439	2006.12.20	Fordítóprogramok
+440	2007.01.15	Térinformatika
+441	2006.12.22	Logika és alkalmazásai
+442	2006.12.28	Optimalizálás
+443	2007.01.18	Logika és alkalmazásai
+444	2007.01.03	Alkalmazás fejlesztés

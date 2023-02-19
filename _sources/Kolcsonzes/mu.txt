@@ -1,0 +1,110 @@
+az	szerzo	cim	evfolyam
+1	Ibsen, Henrik	A vadkacsa	11
+2	Garcia Marquez, Gabriel	Száz év magány	12
+3	Mikszáth, Kálmán	Beszterce ostroma	11
+4	Madách, Imre	Az ember tragédiája	11
+5	Hoffmann, Ernst Theodor Amadeus	Az arany virágcserép	10
+6	Szabó, Magda	Abigél	8
+7	Babits, Mihály	A gólyakalifa	12
+8	Flaubert, Gustave	Bovaryné	11
+9	Puskin, Alekszandr Szergejevics	Anyegin	11
+10	Márai, Sándor	Béke Ithakában	11
+11	Shakespeare, William	Othello	11
+12	Goethe, Johann Wolfgang	Faust	10
+13	Mikszáth, Kálmán	A tót atyafiak	11
+14	Bulgakov, Mihail	A Mester és Margarita	12
+15	Gogol, Nyikolaj Vasziljevics	Az orr	11
+16	Petőfi, Sándor	A helység kalapácsa	11
+17	Poe, Edgar Allan	Válogatott novellák	10
+18	Arany, János	Toldi estéje	11
+19	Dürrenmatt, Friedrich	A fizikusok	12
+20	Shakespeare, William	Hamlet	9
+21	Hugo, Victor	A nyomorultak	10
+22	Örkény, István	Tóték	12
+23	Hugo, Victor	A párizsi Notre-Dame	10
+24	Karinthy, Frigyes	Tanár úr kérem	11
+25	Brecht, Bertolt	Kurázsi mama	12
+26	Petőfi, Sándor	Az apostol	11
+27	Dosztojevszkij, Fjodor Mihajlovics	Bűn és bűnhődés	11
+28	Goethe, Johann Wolfgang	Az ifjú Werther szenvedései	10
+29	Rejtő, Jenő	Piszkos Fred, a kapitány	8
+30	Móricz, Zsigmond	Rokonok	12
+31	Szophoklész	Elektra	9
+32	Shakespeare, William	Julius Caesar	11
+33	Racine, Jean	Phaedra	10
+34	Moliere	A fösvény	9
+35	Verne, Jules	Kétévi vakáció	8
+36	Eco, Umberto	A rózsa neve	10
+37	Mikes, Kelemen	Törökországi levelek	10
+38	Zrínyi, Miklós	Szigeti veszedelem	9
+39	Shakespeare, William	Rómeó és Júlia	9
+40	Jókai, Mór	Az arany ember	11
+41	Kármán, József	Fanni hagyományai	10
+42	Swift, Jonathan	Gulliver utazásai	9
+43	Shakespeare, William	III. Richard	11
+44	Shelley, Mary	Frankenstein	9
+45	Csokonai Vitéz, Mihály	Dorottya	10
+46	Karinthy, Frigyes	Capillária	12
+47	Gárdonyi, Géza	A láthatatlan ember	7
+48	Csehov, Anton Pavlovics	Ványa bácsi	11
+49	Schiller, Friedrich	Don Carlos	10
+50	Karinthy, Frigyes	Így írtok ti	11
+51	Shakespeare, William	A vihar	10
+52	Moliere	Képzelt beteg	9
+53	Kosztolányi, Dezső	Édes Anna	12
+54	Móricz, Zsigmond	Légy jó mindhalálig	8
+55	Szophoklész	Oidipusz király	9
+56	Scott, Walter	Ivanhoe	8
+57	Moliere	Don Juan	9
+58	Dante, Alighieri	Isteni Színjáték	10
+59	Boccaccio, Giovanni	Dekameron	10
+60	Villon, Francois	A Nagy Testamentum	9
+61	Moliere	Az embergyűlölő	9
+62	Dumas, Alexandre	A három testőr	8
+63	Móricz, Zsigmond	Árvácska	8
+64	Jarry, Alfred	Übü király	10
+65	Verne, Jules	A rejtelmes sziget	7
+66	Katona, József	Bánk bán	10
+67	Voltaire	Candide	10
+68	Mann, Thomas	Mario és a varázsló	12
+69	Tolsztoj, Lev	Ivan Iljics halála	11
+70	Móricz, Zsigmond	Úri muri	12
+71	Dumas, Alexandre	Monte Christo grófja	8
+72	Ottlik, Géza	Iskola a határon	12
+73	Defoe, Daniel	Robinson Crusoe	10
+74	Tolsztoj, Lev	Anna Karenina	11
+75	Ibsen, Henrik	Nóra	11
+76	Kafka, Franz	A per	12
+77	Orwell, George	Állatfarm	12
+78	Vergilius	Aeneis	8
+79		Biblia	9
+80	Bronte, Emily	Üvöltő szelek	11
+81	Szophoklész	Antigoné	9
+82	Mann, Thomas	A Buddenbrook-ház	12
+83	Schiller, Friedrich	Ármány és szerelem	10
+84	Gogol, Nyikolaj Vasziljevics	A köpönyeg	11
+85	Shakespeare, William	Lear király	11
+86	Tamási, Áron	Ábel a rengetegben	7
+87	Vörösmarty, Mihály	Csongor és Tünde	11
+88	Moliere	Tartuffe	9
+89	Cervantes, Miguel de	Don Quijote	9
+90	Krúdy, Gyula	Szindbád	12
+91	Shakespeare, William	Macbeth	11
+92	Homérosz	Odüsszeia	9
+93	Mikszáth, Kálmán	A jó palócok	11
+94	Jókai, Mór	Fekete gyémántok	11
+95	Jókai, Mór	A kőszívű ember fiai	7
+96	Jókai, Mór	Sárga rózsa	11
+97	Mikszáth, Kálmán	A Sipsirica	11
+98	Mikszáth, Kálmán	Szent Péter esernyője	7
+99	Stendhal	Vörös és fekete	11
+100	Keyes, Daniel	Virágot Algernonnak	9
+101	Csehov, Anton Pavlovics	Sirály	12
+102	Mikszáth, Kálmán	Új Zrínyiász	11
+103	Balzac, Honoré de	Goriot apó	10
+104	Steinbeck, John	Édentől keletre	8
+105	Hesse, Hermann	A pusztai farkas	12
+106	Golding, William Gerald	A legyek ura	8
+107	Örkény, István	Egyperces novellák	12
+108	Eötvös, József	A falu jegyzője	11
+109	Shakespeare, William	Szentivánéji álom	9

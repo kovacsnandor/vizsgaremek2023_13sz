@@ -1,0 +1,7 @@
+id;nev
+1;köret
+2;leves
+3;egytálétel
+4;húsétel
+5;főzelék
+6;tészta

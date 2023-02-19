@@ -1,0 +1,232 @@
+id;nev
+1;krumpli
+2;liszt
+3;tojás
+4;olaj
+5;só
+6;tej
+7;élesztő
+8;cukor
+9;rétesliszt
+10;szerecsendió
+11;vöröshagyma
+12;gomba
+13;zsír
+14;bors
+15;rizs
+16;hagyma
+17;juhtúró
+18;finomliszt
+19;tejföl
+20;vaj
+21;mazsola
+22;káposzta
+23;őrölt kömény
+24;20%-os ecet
+25;sárgarépa
+26;zöldbab
+27;zöldborsó
+28;kukorica
+29;tarhonya
+30;marhahús
+31;tarkabab
+32;fehérrépa
+33;csipetke
+34;pirospaprika
+35;babérlevél
+36;kristálycukor
+37;ketchup
+38;piros arany
+39;köménymag
+40;savanykás fehérbor
+41;citrom
+42;fahéj
+43;szegfűszeg
+44;brokkoli
+45;ételízesítő
+46;petrezselyemzöld
+47;reszelt tészta
+48;céklasaláta
+49;tejszín
+50;egres
+51;eper
+52;őrölt fahéj
+53;reszelt citromhéj
+54;porcukor
+55;sertéscomb
+56;fokhagyma
+57;ecet
+58;citromhéj
+59;burgonya
+60;lecsó
+61;petrezselyem
+62;fűszerpaprika
+63;kömény
+64;marhacsont
+65;zeller
+66;karalábé
+67;kelkáposzta
+68;vörföshagyma
+69;sűrített paradicsom
+70;szódabikarbóna
+71;egész bors
+72;gyömbér
+73;szerecsendió-virág
+74;zsemle
+75;sajt
+76;őrölt fehérbors
+77;őrölt gyömbér
+78;joghurt
+79;salátauborka
+80;márványsajt
+81;kapor
+82;fejtettbab
+83;füstölt tarja
+84;virsli
+85;szárazkolbász
+86;kolozsvári szalonna
+87;szalonnabőr
+88;leveskocka
+89;kelbimbó
+90;reszelt trappista sajt
+91;füstölt szalonna
+92;póréhagyma
+93;majoranna
+94;bajor virsli
+95;bőrös virsli
+96;őrölt bors
+97;egész kömény
+98;galamb
+99;petrezselyemgyökér
+100;citromlé
+101;héjas gesztenye
+102;édes fehérbor
+103;húslé
+104;paradicsom
+105;paprika
+106;gulyáskrém
+107;pörköltkrém
+108;marhahúsleves-kocka
+109;újhagyma
+110;snidling
+111;natúr tejszín
+112;reszelt gyömbér
+113;erőleves kocka
+114;görögdinnye
+115;vörösbor
+116;füstölt sonka
+117;darált sertéshús
+118;mustár
+119;karfiol
+120;káposztatorzsa
+121;szemesbors
+122;szegfűbors
+123;zellerlevél
+124;sáfrány
+125;füstölt sertéscsülök
+126;sütőkolbász
+127;zöldpaprika
+128;savanyúkáposzta
+129;szárított piros erős paprika
+130;babér
+131;lebbencstészta
+132;lencse
+133;cérnametélt
+134;marhalábszár
+135;sárgahüvelyű zöldbab
+136;fanyar vörösbor
+137;feketebors
+138;rizstészta
+139;sárgaborsó
+140;csuszatészta
+141;füstölt húsos szalonna
+142;füstölt kolbász
+143;tyúk
+144;kelvirág
+145;hús
+146;marhapacsni
+147;fanyar fehérbor
+148;sovány, kicsontozott tarja
+149;sertéshús
+150;olivaolaj
+151;sertéskaraj
+152;borjúcomb
+153;bélszín
+154;főtt burgonya
+155;marhafelsál
+156;flekken fűszerkeverék
+157;sertésláb
+158;paradicsompüré
+159;csípőspaprika
+160;libacomb
+161;bazsalikom
+162;libazsír
+163;konyak
+164;darált sertéscomb
+165;reszelt sajt
+166;makaróni
+167;paradicsomlé
+168;paradicsomkonzerv
+169;húsleves
+170;húsos szalonna
+171;debreceni kolbász
+172;darált hús
+173;parasztkolbász
+174;keménytojás
+175;zsemlemorzsa
+176;olvasztott libazsír
+177;cserkészkolbász
+178;főtt sonka
+179;tarja
+180;füstölthús
+181;pörköltkocka
+182;paprikakrém
+183;darált tarja
+184;szárított piros erőspaprika
+185;száraz rizs
+186;húsos paprika
+187;karaj
+188;szeletelt bacon
+189;filézett pulykamell
+190;prézli
+191;lángolt kolbász
+192;húsvéti sonka
+193;lapos hátszín
+194;fűszerek
+195;őrölt szerecsendió
+196;csemege
+197;csontozott karaj
+198;kicsontozott pulykamell
+199;uborka
+200;pulykamell
+201;szójamártás
+202;kukoricakeményítő
+203;szezámmag
+204;vágott zöldbab
+205;kockára vágott sárgarépa
+206;felszeletelt gomba
+207;száraz bab
+208;füstölt szalonna bőre
+209;csabai paradicsom ivólé
+210;spenót
+211;vizes zsemle
+212;gyalult tök
+213;finom kapor
+214;szilva
+215;búzadara
+216;lekvár
+217;margarin
+218;kakaópor
+219;darált dió
+220;vaníliáscukor
+221;száraztészta
+222;fejeskáposzta
+223;száraz kockatészta
+224;darált mák
+225;szélesmetélt tészta
+226;kifli
+227;mák
+228;füstölt főtt tarja
+229;szalonna
+230;kaporlevél
+231;tehéntúró
