@@ -1,5 +1,7 @@
 # Tartalom
 - [Tartalom](#tartalom)
+- [Ütemezés](#ütemezés)
+    - [2023.02.20-26](#2023.02.20-26)
 - [Általános feladtok](#általnos-feladtok)
   - [Fejlesztési környezet](#fejlesztési-környezet)
   - [Egyéb előírások](#egyéb-előírások)
@@ -18,6 +20,14 @@
 - [Szabó Levente](#szabó-levente)
 - [Szilágyi Brendon Dominik](#szilágyi-brendon-dominik)
 
+# Ütemezés
+## 2023.02.20-26
+- github repó létrehozás
+- adatbázis tervezés
+- diagram
+- felöltés teszt adatokkal (tárolt eljárással)
+- biztonsági mentés
+- fejlesztési környezet létrehozás
 
 # Általános feladtok
 A feladatot az alábbi előírásoknak megfelelően kell elkészíteni
