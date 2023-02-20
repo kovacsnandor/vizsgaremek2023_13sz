@@ -108,8 +108,8 @@ Projekt elnevezése: fenymasolas
 
 
 # Farkas Bence
-Projekt elnevezése: sportverseny
-![adatbázis modell](_sources/Sportverseny/sportverseny.jpg)
+Projekt elnevezése: webaruhazAutok
+![adatbázis modell]()
 
 
 # Földi Bence
@@ -123,8 +123,8 @@ Projekt elnevezése: film
 
 
 # Nagy Gábor Mihály
-Projekt elnevezése: leltar
-![adatbázis modell](_sources/)
+Projekt elnevezése: sportverseny
+![adatbázis modell](_sources/Sportverseny/sportverseny.jpg)
 
 
 # Nagy Gergő
