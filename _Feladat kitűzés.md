@@ -22,7 +22,7 @@
 
 # Ütemezés
 ## 2023.02.20-26
-- github repó létrehozás
+- github saját repó létrehozás
 - adatbázis tervezés
 - diagram
 - felöltés teszt adatokkal (tárolt eljárással)
