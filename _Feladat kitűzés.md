@@ -63,7 +63,7 @@ A feladatot az alábbi előírásoknak megfelelően kell elkészíteni
                 - Adatgerenerálás: tárolt eljárások, függvények
                 - A backendben használt sql lekérdezések
             - biztonsági mentés
-        - `backend` mappa
+        - `swrver` mappa
             - Legyen egy adat szerver
             - Autentikációs szerver
             - npm csomagkezelés
