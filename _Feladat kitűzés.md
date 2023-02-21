@@ -103,7 +103,7 @@ Projekt elnevezése: webaruhazBillentyuk
 
 
 # Busi Alex
-Projekt elnevezése: fenymasolas
+Projekt elnevezése: historia
 ![adatbázis modell](_sources/Fenymasolas/fenymasolas.jpg)
 
 
