@@ -98,7 +98,7 @@ Projekt elnevezése: diakmunka
 
 
 # Boros Tamás
-Projekt elnevezése: elofizetes
+Projekt elnevezése: webaruhazBillentyuk
 ![adatbázis modell](_sources/Elofiztes/elofizetes.jpg)
 
 
@@ -153,7 +153,7 @@ Projekt elnevezése: szamlazo
 
 
 # Szabó Levente
-Projekt elnevezése: webaruhaz
+Projekt elnevezése: webaruhazRuha
 ![adatbázis modell](_sources/)
 
 
