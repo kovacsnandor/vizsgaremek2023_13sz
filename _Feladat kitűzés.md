@@ -104,7 +104,7 @@ Projekt elnevezése: webaruhazBillentyuk
 
 # Busi Alex
 Projekt elnevezése: historia
-![adatbázis modell](_sources/Fenymasolas/fenymasolas.jpg)
+![adatbázis modell](_sources/Historia/historia.jpg)
 
 
 # Farkas Bence
