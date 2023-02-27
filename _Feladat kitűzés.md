@@ -84,6 +84,7 @@ A feladatot az alábbi előírásoknak megfelelően kell elkészíteni
 
 - Autentikáció kötelező javasolt: jwt token
     - users tábla
+![users tábla](_sources/Users_tabla/users.jpg)
     - Regisztráció
     - Login
     - Logout
