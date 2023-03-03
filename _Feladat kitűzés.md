@@ -28,7 +28,7 @@
 - felöltés teszt adatokkal (tárolt eljárással)
 - biztonsági mentés
 - fejlesztési környezet létrehozás
-## 2023.03.03 backend
+## 2023.03.03-12 backend
 - backend integrálása
 - backend megértése és kipróbálása
 - backend saját feladatra szabása
