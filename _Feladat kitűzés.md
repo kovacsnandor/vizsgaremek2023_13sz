@@ -21,13 +21,21 @@
 - [Szilágyi Brendon Dominik](#szilágyi-brendon-dominik)
 
 # Ütemezés
-## 2023.02.20-26
+## 2023.02.20-26 környezet, adatbázis
 - github saját repó létrehozás
 - adatbázis tervezés
 - diagram
 - felöltés teszt adatokkal (tárolt eljárással)
 - biztonsági mentés
 - fejlesztési környezet létrehozás
+## 2023.03.03 backend
+- backend integrálása
+- backend megértése és kipróbálása
+- backend saját feladatra szabása
+    - users aktualizlása
+    - minden tábla CRUD
+    - speciáis lekérdezések
+    - lekérdezések  kipróbálása és dokumentálása: `document_database/projektnev.sql`
 
 # Általános feladtok
 A feladatot az alábbi előírásoknak megfelelően kell elkészíteni
