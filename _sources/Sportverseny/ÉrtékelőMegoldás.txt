@@ -1,0 +1,120 @@
+CREATE DEFINER = ''@'%'
+PROCEDURE sportverseny.proba()
+BEGIN
+DECLARE x INT DEFAULT 0;
+DECLARE actualRacesId INT DEFAULT 0;
+DECLARE countTeams INT DEFAULT 0;
+DECLARE countCompetitionNumbers INT DEFAULT 0;
+DECLARE pCountCompetitionNumberId INT DEFAULT 0;
+DECLARE ti INT DEFAULT 0;
+DECLARE ti2 INT DEFAULT 0;
+DECLARE ci INT DEFAULT 0;
+DECLARE pTeamRaceId INT DEFAULT 0;
+DECLARE pPlace INT DEFAULT 0;
+DECLARE pResultNumber1 INT DEFAULT 0;
+DECLARE pResultNumber2 INT DEFAULT 0;
+
+set actualRacesId = (select id from races order by raceDateFrom desc limit 1);
+set countCompetitionNumbers = (select count(*) from competitionnumbers where racesId = actualRacesId);
+set countTeams = (select count(*) from teams where RaceId = actualRacesId);
+
+# moreIsBetter = 1 (a nagyobb a jobb eredmény)
+set ci = 0;
+competition_loop: LOOP
+  set pCountCompetitionNumberId = (select id from competitionnumbers where racesId = actualRacesId limit ci,1);
+
+  set ti = 0;
+  set pPlace = 0;
+  teams_loop: LOOP
+    set pTeamRaceId = (select tr.id from teams t
+        inner join teamrace tr on t.id = tr.teamId
+        inner join competitionnumbers c on c.id = tr.competitionNumberId
+        where t.RaceId= actualRacesId and c.moreIsBetter = 1 and tr.competitionNumberId = pCountCompetitionNumberId and tr.resultNumber is not null
+        order by tr.resultNumber
+        limit ti,1);
+        
+      IF ti> 0 THEN
+        set pResultNumber1 = (select tr.resultNumber from teams t
+          inner join teamrace tr on t.id = tr.teamId
+          inner join competitionnumbers c on c.id = tr.competitionNumberId
+          where t.RaceId= actualRacesId and c.moreIsBetter = 1 and tr.competitionNumberId = pCountCompetitionNumberId and tr.resultNumber is not null
+          order by tr.resultNumber
+          limit ti,1);
+        set ti2 = ti -1;
+        set pResultNumber2 = (select tr.resultNumber from teams t
+          inner join teamrace tr on t.id = tr.teamId
+          inner join competitionnumbers c on c.id = tr.competitionNumberId
+          where t.RaceId= actualRacesId and c.moreIsBetter = 1 and tr.competitionNumberId = pCountCompetitionNumberId and tr.resultNumber is not null
+          order by tr.resultNumber
+          limit ti2,1);
+        IF pResultNumber2 <> pResultNumber1 THEN
+          set pPlace = pPlace +1;
+        END IF;
+    ELSE
+      set pPlace = pPlace +1;
+    END IF;
+  
+    update teamrace set place = pPlace where id = pTeamRaceId;
+    set ti = ti + 1;
+    IF ti>=countTeams THEN
+      LEAVE teams_loop;
+    END IF;
+  END LOOP teams_loop;
+
+  set ci = ci + 1;
+  IF ci>=countTeams THEN
+    LEAVE competition_loop;
+  END IF;
+END LOOP competition_loop;
+
+# moreIsBetter = 0 (a kisebb a jobb eredmény)
+set ci = 0;
+competition_loop: LOOP
+  set pCountCompetitionNumberId = (select id from competitionnumbers where racesId = actualRacesId limit ci,1);
+
+  set ti = 0;
+  set pPlace = 0;
+  teams_loop: LOOP
+    set pTeamRaceId = (select tr.id from teams t
+        inner join teamrace tr on t.id = tr.teamId
+        inner join competitionnumbers c on c.id = tr.competitionNumberId
+        where t.RaceId= actualRacesId and c.moreIsBetter = 0 and tr.competitionNumberId = pCountCompetitionNumberId and tr.resultNumber is not null
+        order by tr.resultNumber desc
+        limit ti,1);
+        
+      IF ti> 0 THEN
+        set pResultNumber1 = (select tr.resultNumber from teams t
+          inner join teamrace tr on t.id = tr.teamId
+          inner join competitionnumbers c on c.id = tr.competitionNumberId
+          where t.RaceId= actualRacesId and c.moreIsBetter = 0 and tr.competitionNumberId = pCountCompetitionNumberId and tr.resultNumber is not null
+          order by tr.resultNumber desc
+          limit ti,1);
+        set ti2 = ti -1;
+        set pResultNumber2 = (select tr.resultNumber from teams t
+          inner join teamrace tr on t.id = tr.teamId
+          inner join competitionnumbers c on c.id = tr.competitionNumberId
+          where t.RaceId= actualRacesId and c.moreIsBetter = 0 and tr.competitionNumberId = pCountCompetitionNumberId and tr.resultNumber is not null
+          order by tr.resultNumber desc
+          limit ti2,1);
+        IF pResultNumber2 <> pResultNumber1 THEN
+          set pPlace = pPlace +1;
+        END IF;
+    ELSE
+      set pPlace = pPlace +1;
+    END IF;
+  
+    update teamrace set place = pPlace where id = pTeamRaceId;
+    set ti = ti + 1;
+    IF ti>=countTeams THEN
+      LEAVE teams_loop;
+    END IF;
+  END LOOP teams_loop;
+
+  set ci = ci + 1;
+  IF ci>=countTeams THEN
+    LEAVE competition_loop;
+  END IF;
+END LOOP competition_loop;
+
+
+END
