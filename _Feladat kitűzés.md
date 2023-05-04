@@ -53,16 +53,17 @@ A feladatot az alábbi előírásoknak megfelelően kell elkészíteni
         - Le kell írni, képernyő képekkel hogy a produktumot hogy kell használni
     - `Presentation.ppt`  
         - Egy max 15 perces bemutató előadást támogató prozentáció
+            - Személyes bemutatkozás
+                - Mi a szakterület, mihez értek
+                - Milyen terveim vannak
             - Mi a feladat célja
-            - Meddig jutottam el
             - Mi a feljesztési környezet
                 - pl. Mysql adatbázis, Vusj kliens, Nodejs Backend, github
             - Milyen az adatbázis (diagram, teszt adatok)
-            - Hogy működik a backend
-            - Hogy működik a kliens
-            - Meddig jutott el a fejlszetés,
+            - Be kell mutatni működés közben
+            - Meddig jutottam el
             - Milyen irányban kell továbbfejleszteni
-        - Be kell mutatni működés közben
+            - Egy kód részletet kiemelni és bemutatni
 
     - dokumentációs mappák:
         - `document_database`
