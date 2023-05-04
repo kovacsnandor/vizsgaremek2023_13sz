@@ -53,6 +53,43 @@ A feladatot az alábbi előírásoknak megfelelően kell elkészíteni
         - Itt kell leírni, hogy a feladatot hogy kell üzembe helyezni
     - `Technical description.md` (Műszaki leírás)
         - Le kell írni struktúráltan hogy működik a feladat, magyar nyelven.
+        - Mappa struktúra
+        - Adatbázis 
+            - diagram
+            - Teszt adatok
+        - Backend leírása
+            - sql gyűjtemény
+            - Milyen modulok
+            - Milyen fájlok
+            - Data server
+                - .env
+                - Kapcsolódás az adatbázishoz
+                - get, post, put, delete
+                - middleware
+                    - json
+                    - cors
+                    - autentikáció
+            - Auth server
+                - Bejelentkezés
+                - Token
+            - pingelés (request rest)
+
+
+        - Frontend leírás
+            - Mi a program célja
+            - Milyen modulok
+            - Milyen fájlok
+                - store
+                - komponensek
+                - views
+                - router
+                - Oldal szerkezet
+                    - Belépési pont: App.vue, main.js
+                    - Head
+                    - Menü
+                    - Tatalom
+
+
     - `Users Guide.md` (Használati útmutató)
         - Le kell írni, képernyő képekkel hogy a produktumot hogy kell használni
     - `Presentation.ppt`  
