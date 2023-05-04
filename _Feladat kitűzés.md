@@ -37,7 +37,7 @@
     - speciáis lekérdezések
     - lekérdezések  kipróbálása és dokumentálása: `document_database/projektnev.sql`
 ## Felkészülés
-Felkészülési naptár
+Felkészülési naptár  
 ![Naptár](pictures/felkeszulesnaptar.jpg)    
 
 # Általános feladtok
