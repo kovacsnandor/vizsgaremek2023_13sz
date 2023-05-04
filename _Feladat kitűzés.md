@@ -36,6 +36,9 @@
     - minden tábla CRUD
     - speciáis lekérdezések
     - lekérdezések  kipróbálása és dokumentálása: `document_database/projektnev.sql`
+## Felkészülés
+Felkészülési naptár
+![Naptár](pictures/felkeszulesnaptar.jpg)    
 
 # Általános feladtok
 A feladatot az alábbi előírásoknak megfelelően kell elkészíteni
@@ -46,6 +49,7 @@ A feladatot az alábbi előírásoknak megfelelően kell elkészíteni
     - itt kell fejleszteni
     - a repo neve: a feladat neve
     - `RADME.md`
+        - Mi ez a program
         - Itt kell leírni, hogy a feladatot hogy kell üzembe helyezni
     - `Technical description.md` (Műszaki leírás)
         - Le kell írni struktúráltan hogy működik a feladat, magyar nyelven.
@@ -57,9 +61,15 @@ A feladatot az alábbi előírásoknak megfelelően kell elkészíteni
                 - Mi a szakterület, mihez értek
                 - Milyen terveim vannak
             - Mi a feladat célja
+                - mit csinál
+                - mit tud aprogram
+                - bejelentkezés
             - Mi a feljesztési környezet
                 - pl. Mysql adatbázis, Vusj kliens, Nodejs Backend, github
-            - Milyen az adatbázis (diagram, teszt adatok)
+            - Milyen az adatbázis 
+                - diagram, 
+                - teszt adatok
+                - Anyaggyűjtés
             - Be kell mutatni működés közben
             - Meddig jutottam el
             - Milyen irányban kell továbbfejleszteni
